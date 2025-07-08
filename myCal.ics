@@ -1,0 +1,3271 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20250708T000000
+X-CALEND:20250806T213000Z
+X-CALEND:20250806T000000
+X-CLIPSTART:20250708T040000Z
+X-CLIPEND:20250807T040000Z
+X-WR-RELCALID:{0000002E-1C41-6714-6736-423CCBCAAF0B}
+X-WR-CALNAME:Jones\, Layne M (US)
+X-PRIMARY-CALENDAR:TRUE
+X-OWNER;CN="Jones, Layne M (US)":mailto:layne.m.jones@lmco.com
+X-MS-OLK-WKHRSTART;TZID="Eastern Standard Time":080000
+X-MS-OLK-WKHREND;TZID="Eastern Standard Time":180000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	clayton.c.mclean.jr@lmco.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:corey.n.tong@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="Johnson, Chloe (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:chloe.johnson@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	grace.m.hamilton@lmco.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:benjamin.l.thomson@lmco.com
+ATTENDEE;CN="Campbell I, Paul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:paul.m.campbell.i@lmco.com
+CLASS:PUBLIC
+CREATED:20231116T133500Z
+DESCRIPTION:handing control of these meetings over to Grace\n
+DTEND;TZID="Eastern Standard Time":20250714T160000
+DTSTAMP:20250116T182742Z
+DTSTART;TZID="Eastern Standard Time":20250714T153000
+LAST-MODIFIED:20250116T182818Z
+LOCATION:Virtual
+ORGANIZER;CN=US-C3ISim:invalid:nomail
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=MO
+SEQUENCE:2
+SUMMARY:Canceled: C3ISim Virtual Scrum
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000079AADDF20E17DA01000000000000000
+	0100000000D38A2E6F83C4844B113189002ABC8B8
+X-ALT-DESC;FMTTYPE=text/html:handing control of these meetings over to Grac
+	e
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20250116T182742Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	clayton.c.mclean.jr@lmco.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:core
+	y.n.tong@lmco.com
+ATTENDEE;CN="Arnott, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:da
+	vid.b.arnott@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	grace.m.hamilton@lmco.com
+ATTENDEE;CN="Johnson, Chloe (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:chloe.johnson@lmco.com
+ATTENDEE;CN="Pradhan, Neena (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:no
+	mail
+ATTENDEE;CN="Larcomb, Christian C (US N-ADVANCED SCIENCE'S AND TECHNOLOGIES
+	, LLC)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Campbell I, Paul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:paul.m.campbell.i@lmco.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:benjamin.l.thomson@lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:dylan.w.benavides@lmco.com
+CLASS:PUBLIC
+CREATED:20240215T223810Z
+DESCRIPTION:handing control of these meetings over to Grace\n
+DTEND;TZID="Eastern Standard Time":20250709T150000
+DTSTAMP:20250116T194026Z
+DTSTART;TZID="Eastern Standard Time":20250709T140000
+LAST-MODIFIED:20250116T194118Z
+LOCATION:CAM-11-2-C300-California
+ORGANIZER;CN=US-C3ISim:invalid:nomail
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=WE
+SEQUENCE:18
+SUMMARY:Canceled: C3ISim In-Person Scrum
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000E281F1630E17DA01000000000000000
+	010000000D718C0A918A5484EB20DC21C3F6B790D
+X-ALT-DESC;FMTTYPE=text/html:handing control of these meetings over to Grac
+	e
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:18
+X-MS-OLK-APPTSEQTIME:20250116T194026Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=FALSE:mailto:csl_cnd_c3isim
+	_agile.dl-mst@exch.ems.lmco.com
+CLASS:PUBLIC
+CREATED:20240327T231238Z
+DESCRIPTION:When: Occurs every Thursday effective 3/28/2024 (UTC-05:00) Eas
+	tern Time (US & Canada).\n\nWhere: TC\n\n \n\nNote: The GMT offset above d
+	oes not reflect daylight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~
+	*~*\n\n \n\nI will be at tech campus on most Thurs/Fri :) You will likely 
+	find me at 780-3 or 790-3\n\n \n\n\n\n
+DTEND;VALUE=DATE:20250711
+DTSTAMP:20240327T231233Z
+DTSTART;VALUE=DATE:20250710
+LAST-MODIFIED:20240425T140436Z
+LOCATION:TC
+ORGANIZER;CN="Guo, Jessica (US)":mailto:jessica.guo@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Tech Campus - Guo
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000702A0A3E7A80DA01000000000000000
+	01000000036C90F9FCCFED5409BF00413171ECBF1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:Wingdings\;\n	panose-1:5 0 0 0 0 0 0 0 0 0\;}\n@font-face\n	{fon
+	t-family:SimSun\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font-fa
+	mily:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{fon
+	t-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{font-
+	family:"\\@SimSun"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n/* Style Definitio
+	ns */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-s
+	ize:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-ligatures:standar
+	dcontextual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.
+	MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-l
+	igatures:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in
+	 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></styl
+	e><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" /
+	>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit"
+	>\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></
+	head><body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:br
+	eak-word"><div class="WordSection1"><p class="MsoNormal">When: Occurs ever
+	y Thursday effective 3/28/2024 (UTC-05:00) Eastern Time (US &amp\; Canada)
+	.<o:p></o:p></p><p class="MsoNormal">Where: TC<o:p></o:p></p><p class="Mso
+	Normal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GMT offset ab
+	ove does not reflect daylight saving time adjustments.<o:p></o:p></p><p cl
+	ass="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*
+	~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="Ms
+	oNormal">I will be at tech campus on most Thurs/Fri <span style="font-fami
+	ly:Wingdings">J</span> You will likely find me at 780-3 or 790-3<o:p></o:p
+	></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><span
+	 style="mso-ligatures:none"><img width="241" height="235" style="width:2.5
+	104in\;height:2.4479in" id="Picture_x0020_1" src="cid:image001.png@01DA807
+	A.A4A73D40"></span><o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Becker, Richard J (US)";RSVP=TRUE:mailto:richard.j.becker@lmco
+	.com
+ATTENDEE;CN="Campbell I, Paul M (US)";RSVP=TRUE:mailto:paul.m.campbell.i@lm
+	co.com
+ATTENDEE;CN="Avallone, William (US)";RSVP=TRUE:mailto:william.avallone@lmco
+	.com
+ATTENDEE;CN="Reese, David B (US)";RSVP=TRUE:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Krott, Deborah B (US)";RSVP=TRUE:mailto:deborah.b.krott@lmco.c
+	om
+ATTENDEE;CN="Guo, Jessica (US)";RSVP=TRUE:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Sesay, Michael A (US)";RSVP=TRUE:mailto:michael.a.sesay@lmco.c
+	om
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=TRUE:mailto:philip.c.franco.ii
+	i@lmco.com
+ATTENDEE;CN="Arnott, David B (US)";RSVP=TRUE:mailto:david.b.arnott@lmco.com
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=TRUE:mailto:clayton.c.mclean.j
+	r@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";RSVP=TRUE:mailto:benjamin.l.thomson@
+	lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";RSVP=TRUE;PARTSTAT=ACCEPTED;X-MS-OLK-RESP
+	TIME=20240411T192100Z:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dy
+	lan.w.benavides@lmco.com
+CLASS:PUBLIC
+CREATED:20240411T192128Z
+DESCRIPTION:When: Occurs every 2 week(s) on Wednesday effective 4/24/2024 u
+	ntil 7/16/2025 from 12:00 PM to 12:30 PM (UTC-05:00) Eastern Time (US & Ca
+	nada).\n\n \n\nNote: The GMT offset above does not reflect daylight saving
+	 time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nPlease accept this 
+	meeting notice as a reminder for IOIs\n\nMake sure it shows up as free tim
+	e on your calendar so as to not block out your time.\n\n \n\nPlease state 
+	program name for tasks.  Please expand out acronyms.  \n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250716T123000
+DTSTAMP:20250127T194331Z
+DTSTART;TZID="Eastern Standard Time":20250716T120000
+LAST-MODIFIED:20250127T194430Z
+ORGANIZER;CN="Pradhan, Neena (US)":invalid:nomail
+PRIORITY:1
+RRULE:FREQ=WEEKLY;COUNT=1;INTERVAL=2;BYDAY=WE;WKST=SU
+SEQUENCE:3
+SUMMARY:Canceled: IOIs Due
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000E0A75B0B1C8CDA01000000000000000
+	01000000064E89C8CE3A1DC4E9AB9E2E0B7EF44FC
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" x
+	mlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://ww
+	w.w3.org/TR/REC-html40"><head>\n<meta http-equiv="Content-Type" content="t
+	ext/html\; charset=us-ascii"><meta name="Generator" content="Microsoft Wor
+	d 15 (filtered medium)"><style><!--\n/* Font Definitions */\n@font-face\n	
+	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-fac
+	e\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\
+	n	{font-family:Aptos\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorm
+	al\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Cal
+	ibri"\,sans-serif\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose
+	\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n
+		mso-ligatures:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin
+	:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n-->
+	</style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1
+	026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=
+	"edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif
+	]--></head><body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-w
+	rap:break-word"><div class="WordSection1"><p class="MsoNormal">When: Occur
+	s every 2 week(s) on Wednesday effective 4/24/2024 until 7/16/2025 from 12
+	:00 PM to 12:30 PM (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p></o:p>
+	</p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: 
+	The GMT offset above does not reflect daylight saving time adjustments.<o:
+	p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal
+	">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p
+	></p><p class="MsoNormal">Please accept this meeting notice as a reminder 
+	for IOIs<o:p></o:p></p><p class="MsoNormal">Make sure it shows up as free 
+	time on your calendar so as to not block out your time.<o:p></o:p></p><p c
+	lass="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Please state p
+	rogram name for tasks.&nbsp\; Please expand out acronyms.&nbsp\; <o:p></o:
+	p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20240411T183034Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=TRUE:mailto:philip.c.franco.ii
+	i@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:m
+	ichael.1.block@lmco.com
+ATTENDEE;CN="Reese, David B (US)";RSVP=TRUE:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";RSVP=TRUE:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="Arnott, David B (US)";RSVP=TRUE:mailto:david.b.arnott@lmco.com
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=TRUE:mailto:clayton.c.mclean.j
+	r@lmco.com
+ATTENDEE;CN="Campbell I, Paul M (US)";RSVP=TRUE:mailto:paul.m.campbell.i@lm
+	co.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";RSVP=TRUE:mailto:benjamin.l.thomson@
+	lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";RSVP=TRUE:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="CAM-11-2-E239-Illinois-CLASS (VTC) / System 39";CUTYPE=RESOURC
+	E;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:CAM-11-2-E239-Il
+	linoisVTC.crrm@lmco.com
+CLASS:PUBLIC
+CREATED:20240814T112901Z
+DESCRIPTION:When: Occurs every Wednesday effective 8/21/2024 until 1/5/2026
+	 from 10:00 AM to 11:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\nWher
+	e: CAM-11-2-E239-Illinois-CLASS (VTC) / System 39\n\n \n\nNote: The GMT of
+	fset above does not reflect daylight saving time adjustments.\n\n \n\n*~*~
+	*~*~*~*~*~*~*~*\n\n \n\n \n\n_____________________________________________
+	___________________________________\n\nMicrosoft Teams Need help? <https:/
+	/aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https://go
+	v.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting_f4f656d9d1974c0a900
+	019c41ec26d95%40thread.v2/0?context=%7b%22Tid%22%3a%22b18f006c-b0fc-467d-b
+	23a-a35b5695b5dc%22%2c%22Oid%22%3a%227e66d761-fc68-4165-aa76-42e8fc23fde2%
+	22%7d>  \n\nMeeting ID: 992 962 366 147 \n\nPasscode: Cp7ez63j \n\n_______
+	_________________________\n\nDial in by phone \n\n+1 303-824-6161\,\,64188
+	0603# <tel:+13038246161\,\,641880603>  United States\, Denver \n\n+1 408-7
+	52-8700\,\,641880603# <tel:+14087528700\,\,641880603>  United States\, Sun
+	nyvale \n\nFind a local number <https://dialin.cpc.gov.teams.microsoft.us/
+	a23b5eba-eeae-4364-952b-734d5e1384bf?id=641880603>  \n\nPhone conference I
+	D: 641 880 603# \n\nJoin on a video conferencing device \n\nTenant key: te
+	ams@CVI-gov.external.lmco.com \n\nVideo ID: 515 994 233 4 \n\nMore info <h
+	ttps://pexip.me/teams/CVI-gov.external.lmco.com/5159942334>  \n\nFor organ
+	izers: Meeting options <https://gov.teams.microsoft.us/meetingOptions/?org
+	anizerId=7e66d761-fc68-4165-aa76-42e8fc23fde2&tenantId=b18f006c-b0fc-467d-
+	b23a-a35b5695b5dc&threadId=19_gcch_meeting_f4f656d9d1974c0a900019c41ec26d9
+	5@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dial
+	in.cpc.gov.teams.microsoft.us/usp>  \n\nStart your meeting with a safety m
+	essage (https://tiny.lmco.com/msm) <https://tiny.lmco.com/msm>  and take c
+	redit in TZ Leader.\n\nIMPORTANT: The meeting host is responsible for ensu
+	ring that the participants understand who is on the call and announcing wh
+	at Sensitive Information may be disclosed\, if any. Participants in a meet
+	ing are responsible for knowing whether the information they are presentin
+	g or sharing is sensitive [e.g.\, Export Controlled Information (ECI)\, LM
+	 Proprietary Information (LMPI)\, or Third Party Proprietary Information (
+	TPPI)] and whether it may be shared in the meeting. Participants are also 
+	responsible for ensuring that all Sensitive Information is appropriately m
+	arked before displaying the material.\n\n_________________________________
+	_______________________________________________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250709T110000
+DTSTAMP:20250514T135234Z
+DTSTART;TZID="Eastern Standard Time":20250709T100000
+LAST-MODIFIED:20250702T151414Z
+LOCATION:CAM-11-2-E239-Illinois-CLASS (VTC) / System 39
+ORGANIZER;CN="Franco III, Philip C (US)":mailto:philip.c.franco.iii@lmco.co
+	m
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=WE
+SEQUENCE:10
+SUMMARY:Tactical Integration Tag Up
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080A25FAC1AEEDA01000000000000000
+	0100000005D11266D9784F84097476B00F664AA94
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{
+	font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 
+	11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal
+	\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calib
+	ri"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.Mso
+	Hyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:u
+	nderline\;}\nspan.me-email-text\n	{mso-style-name:me-email-text\;}\nspan.m
+	e-email-text-secondary\n	{mso-style-name:me-email-text-secondary\;}\nspan.
+	me-email-headline\n	{mso-style-name:me-email-headline\;}\nspan.EmailStyle2
+	1\n	{mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:
+	export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSect
+	ion1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordS
+	ection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:s
+	hapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte
+	 mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1
+	" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#0
+	563C1" vlink="#954F72" style="word-wrap:break-word"><div class="WordSectio
+	n1"><p class="MsoNormal">When: Occurs every Wednesday effective 8/21/2024 
+	until 1/5/2026 from 10:00 AM to 11:00 AM (UTC-05:00) Eastern Time (US &amp
+	\; Canada).<o:p></o:p></p><p class="MsoNormal">Where: CAM-11-2-E239-Illino
+	is-CLASS (VTC) / System 39<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;
+	</o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect
+	 daylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p
+	>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><
+	p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><o:p>&nbsp\
+	;</o:p></p><div><div><div style="margin-bottom:.25in\;overflow:hidden"><p 
+	class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#242424">______________________________________________________
+	__________________________</span><span style="font-size:12.0pt\;font-famil
+	y:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424\;mso-ligatures:none"><
+	o:p></o:p></span></p></div><div style="margin-bottom:9.0pt"><p class="MsoN
+	ormal"><span class="me-email-text"><b><span style="font-size:18.0pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Microsoft Teams<
+	/span></b></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-ser
+	if\;color:#242424"> <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><
+	span style="font-size:10.5pt\;color:#5B5FC7">Need help?</span></a> <o:p></
+	o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"
+	><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24242
+	4"><a href="https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeti
+	ng_f4f656d9d1974c0a900019c41ec26d95%40thread.v2/0?context=%7b%22Tid%22%3a%
+	22b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%227e66d761-fc68-4
+	165-aa76-42e8fc23fde2%22%7d" target="_blank" title="Meeting join link"><b>
+	<span style="font-size:15.0pt\;color:#5B5FC7">Join the meeting now</span><
+	/b></a> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p cl
+	ass="MsoNormal"><span class="me-email-text-secondary"><span style="font-si
+	ze:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">
+	Meeting ID: </span></span><span class="me-email-text"><span style="font-si
+	ze:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">
+	992 962 366 147</span></span><span style="font-family:&quot\;Segoe UI&quot
+	\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style="ma
+	rgin-bottom:.25in"><p class="MsoNormal"><span class="me-email-text-seconda
+	ry"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#616161">Passcode: </span></span><span class="me-email-text
+	"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\;color:#242424">Cp7ez63j</span></span><span style="font-family:&quot
+	\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div
+	><div style="margin-bottom:.25in"><div class="MsoNormal" align="center" st
+	yle="text-align:center"><span style="font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#242424"><hr size="1" width="100%" align="center"></span>
+	</div></div><div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><sp
+	an class="me-email-text"><b><span style="font-family:&quot\;Segoe UI&quot\
+	;\,sans-serif\;color:#242424">Dial in by phone</span></b></span><span styl
+	e="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></
+	o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"
+	><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24242
+	4"><a href="tel:+13038246161\,\,641880603"><span style="font-size:10.5pt\;
+	color:#5B5FC7">+1 303-824-6161\,\,641880603#</span></a> </span><span class
+	="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#616161">United States\, Denver</span></span><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="M
+	soNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;col
+	or:#242424"><a href="tel:+14087528700\,\,641880603"><span style="font-size
+	:10.5pt\;color:#5B5FC7">+1 408-752-8700\,\,641880603#</span></a> </span><s
+	pan class="me-email-text"><span style="font-size:10.5pt\;font-family:&quot
+	\;Segoe UI&quot\;\,sans-serif\;color:#616161">United States\, Sunnyvale</s
+	pan></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"
+	><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#242424"><a href="https://dialin.cpc.gov.teams.microsoft.us
+	/a23b5eba-eeae-4364-952b-734d5e1384bf?id=641880603"><span style="font-size
+	:10.5pt\;color:#5B5FC7">Find a local number</span></a> <o:p></o:p></span><
+	/p></div></div><div style="margin-bottom:.25in"><p class="MsoNormal"><span
+	 class="me-email-text-secondary"><span style="font-size:10.5pt\;font-famil
+	y:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Phone conference ID: 
+	</span></span><span class="me-email-text"><span style="font-size:10.5pt\;f
+	ont-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">641 880 603#
+	</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\
+	;color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5
+	pt"><p class="MsoNormal"><span class="me-email-headline"><b><span style="f
+	ont-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Join on a vi
+	deo conferencing device</span></b></span><span style="font-family:&quot\;S
+	egoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><d
+	iv style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email-
+	text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#616161">Tenant key: </span></span><span class="me-email-
+	text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#242424">teams@CVI-gov.external.lmco.com</span></span><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> 
+	<o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="Mso
+	Normal"><span class="me-email-text-secondary"><span style="font-size:10.5p
+	t\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Video ID
+	: </span></span><span class="me-email-text"><span style="font-size:10.5pt\
+	;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">515 994 23
+	3 4</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-ser
+	if\;color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:
+	.25in"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\
+	;\,sans-serif\;color:#242424"><a href="https://pexip.me/teams/CVI-gov.exte
+	rnal.lmco.com/5159942334" target="_blank"><span style="font-size:10.5pt\;c
+	olor:#5B5FC7">More info</span></a> <o:p></o:p></span></p></div><div><p cla
+	ss="MsoNormal"><span class="me-email-text-secondary"><span style="font-siz
+	e:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">F
+	or organizers: </span></span><span style="font-family:&quot\;Segoe UI&quot
+	\;\,sans-serif\;color:#242424"><a href="https://gov.teams.microsoft.us/mee
+	tingOptions/?organizerId=7e66d761-fc68-4165-aa76-42e8fc23fde2&amp\;tenantI
+	d=b18f006c-b0fc-467d-b23a-a35b5695b5dc&amp\;threadId=19_gcch_meeting_f4f65
+	6d9d1974c0a900019c41ec26d95@thread.v2&amp\;messageId=0&amp\;language=en-US
+	" target="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Meeting op
+	tions</span></a> </span><span style="font-family:&quot\;Segoe UI&quot\;\,s
+	ans-serif\;color:#D1D1D1">|</span><span style="font-family:&quot\;Segoe UI
+	&quot\;\,sans-serif\;color:#242424"> <a href="https://dialin.cpc.gov.teams
+	.microsoft.us/usp" target="_blank"><span style="font-size:10.5pt\;color:#5
+	B5FC7">Reset dial-in PIN</span></a> <o:p></o:p></span></p></div><div style
+	="margin-top:.25in\;margin-bottom:4.5pt"><div><p class="MsoNormal"><span s
+	tyle="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#616161">Start your meeting with a safety message <a href="https://tin
+	y.lmco.com/msm">(https://tiny.lmco.com/msm)</a> and take credit in TZ Lead
+	er.<br><br>IMPORTANT: The meeting host is responsible for ensuring that th
+	e participants understand who is on the call and announcing what Sensitive
+	 Information may be disclosed\, if any. Participants in a meeting are resp
+	onsible for knowing whether the information they are presenting or sharing
+	 is sensitive [e.g.\, Export Controlled Information (ECI)\, LM Proprietary
+	 Information (LMPI)\, or Third Party Proprietary Information (TPPI)] and w
+	hether it may be shared in the meeting. Participants are also responsible 
+	for ensuring that all Sensitive Information is appropriately marked before
+	 displaying the material.<o:p></o:p></span></p></div></div><div style="mar
+	gin-bottom:.25in\;overflow:hidden"><p class="MsoNormal"><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">________________
+	________________________________________________________________</span><sp
+	an style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424"><o:p></o:p></span></p></div></div></div><p class="MsoNorm
+	al"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:12
+X-MS-OLK-APPTSEQTIME:20250121T222447Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Weir, Robert E (US)";RSVP=TRUE:mailto:robert.e.weir@lmco.com
+ATTENDEE;CN="Bauman, Joseph C (US)";RSVP=TRUE:mailto:joseph.c.bauman@lmco.c
+	om
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE:mailto:dylan.w.benavides@lm
+	co.com
+ATTENDEE;CN="Berkowitz, Noah J (US)";RSVP=TRUE:mailto:noah.j.berkowitz@lmco
+	.com
+ATTENDEE;CN="Fernandez, Adriel J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:a
+	driel.j.fernandez@lmco.com
+ATTENDEE;CN="Kirwin, Michael A (US)";RSVP=TRUE:mailto:michael.a.kirwin@lmco
+	.com
+ATTENDEE;CN="Kruithof, Ian J (US)";RSVP=TRUE:mailto:ian.j.kruithof@lmco.com
+ATTENDEE;CN="Lok, Selina (US)";RSVP=TRUE:mailto:selina.lok@lmco.com
+ATTENDEE;CN="Luban, Jeffrey M (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jeff
+	rey.m.luban@lmco.com
+ATTENDEE;CN="Martinez Jr Jr, Raul (US)";RSVP=TRUE:mailto:raul.martinez.jr.j
+	r@lmco.com
+ATTENDEE;CN="Muccifori, Thomas M (US)";RSVP=TRUE:mailto:thomas.m.muccifori@
+	lmco.com
+ATTENDEE;CN="OConnor, Paul M (US)";RSVP=TRUE:mailto:paul.m.oconnor@lmco.com
+ATTENDEE;CN="Robison, Kimberly (US)";RSVP=TRUE:mailto:kimberly.robison@lmco
+	.com
+ATTENDEE;CN="Sweeney Jr, Thomas F (US)";RSVP=TRUE:mailto:thomas.f.sweeney.j
+	r@lmco.com
+ATTENDEE;CN="Thapa, Rajeev J (US)";RSVP=TRUE:mailto:rajeev.j.thapa@lmco.com
+ATTENDEE;CN="Ciullo, Matthew J (US)";RSVP=TRUE:mailto:matthew.j.ciullo@lmco
+	.com
+ATTENDEE;CN="DiBuono, Michael J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:mi
+	chael.j.dibuono@lmco.com
+ATTENDEE;CN="Hack, Peter J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:peter.j
+	.hack@lmco.com
+ATTENDEE;CN="Lafrance, Ryann (US)";RSVP=TRUE:mailto:ryann.lafrance@lmco.com
+ATTENDEE;CN="McDermott, Victoria (US)";RSVP=TRUE:mailto:victoria.mcdermott@
+	lmco.com
+ATTENDEE;CN="Oldrati, Brian E (US)";RSVP=TRUE:mailto:brian.e.oldrati@lmco.c
+	om
+ATTENDEE;CN="Patel, Gaurav (US)";RSVP=TRUE:mailto:gaurav.patel@lmco.com
+ATTENDEE;CN="Pfeiffer Jr, Michael (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	michael.pfeiffer.jr@lmco.com
+ATTENDEE;CN="Pradhan, Neena (US)";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Tadduni, Joseph (US)";RSVP=TRUE:mailto:joseph.tadduni@lmco.com
+ATTENDEE;CN="Cutter, Eric (US)";RSVP=TRUE:mailto:eric.cutter@lmco.com
+ATTENDEE;CN="Fell, James M (US)";RSVP=TRUE:mailto:james.m.fell@lmco.com
+ATTENDEE;CN="Parra Jr, Arturo U (US)";RSVP=TRUE;PARTSTAT=DECLINED:mailto:ar
+	turo.u.parra.jr@lmco.com
+ATTENDEE;CN="Giacopelli, Nick (US)";RSVP=TRUE:mailto:nick.giacopelli@lmco.c
+	om
+ATTENDEE;CN="Slater, Jessica M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	jessica.m.slater@lmco.com
+ATTENDEE;CN="Barnstable, Bruce (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	bruce.barnstable@lmco.com
+ATTENDEE;CN="Sesay, Michael A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:michael.a.sesay@lmco.com
+ATTENDEE;CN="Gaugler, Robert M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:robert.m.gaugler@lmco.com
+ATTENDEE;CN="Heim, Thomas K (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tho
+	mas.k.heim@lmco.com
+ATTENDEE;CN="Garrahan, Clinton E (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:clinton.e.garrahan@lmco.com
+ATTENDEE;CN="Daws, Michael E (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:mi
+	chael.e.daws@lmco.com
+ATTENDEE;CN="Giuliano, Michael A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:michael.a.giuliano@lmco.com
+ATTENDEE;CN="Golow, Timothy A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:t
+	imothy.a.golow@lmco.com
+ATTENDEE;CN="Grossmann, Josef N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:josef.n.grossmann@lmco.com
+ATTENDEE;CN="Iqbal, Kinza (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:noma
+	il
+ATTENDEE;CN="Kubiak, Gregory R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	gregory.r.kubiak@lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:lay
+	ne.m.jones@lmco.com
+ATTENDEE;CN="Krott, Deborah B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:d
+	eborah.b.krott@lmco.com
+ATTENDEE;CN="Baker, Ryan C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:ryan.c.baker@lmco.com
+ATTENDEE;CN="Saud, Nabeel (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:nabee
+	l.saud@lmco.com
+ATTENDEE;CN="Szemis, Stephen J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	stephen.j.szemis@lmco.com
+ATTENDEE;CN="Scheffler, Julie E (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:julie.e.scheffler@lmco.com
+ATTENDEE;CN="Watson, Scott B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:sc
+	ott.b.watson@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:m
+	ichael.1.block@lmco.com
+ATTENDEE;CN="Mai, Jianhong (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jian
+	hong.mai@lmco.com
+ATTENDEE;CN="Smith, Connor 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:co
+	nnor.1.smith@lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:core
+	y.n.tong@lmco.com
+ATTENDEE;CN="Schaffer, Kevin S (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	kevin.s.schaffer@lmco.com
+ATTENDEE;CN="Pellegrini, Sydney A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:sydney.a.pellegrini@lmco.com
+ATTENDEE;CN="Pedersen, Richard N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:richard.n.pedersen@lmco.com
+ATTENDEE;CN="Morocho, Israel S (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	israel.s.morocho@lmco.com
+ATTENDEE;CN="Miller, Dustin S1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	dustin.s1.miller@lmco.com
+ATTENDEE;CN="Heisler, Jeffrey M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:jeffrey.m.heisler@lmco.com
+ATTENDEE;CN="Frankunas, Michael (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:michael.frankunas@lmco.com
+ATTENDEE;CN="Elkayal, Mahmoud S (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:mahmoud.s.elkayal@lmco.com
+ATTENDEE;CN="Doe, Wesley M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:wesl
+	ey.m.doe@lmco.com
+ATTENDEE;CN="Choi, Allison C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:n
+	omail
+ATTENDEE;CN="Bennett, Edward L (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	edward.l.bennett@lmco.com
+ATTENDEE;CN="Becker, Dixie R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:di
+	xie.r.becker@lmco.com
+ATTENDEE;CN="Timpanaro, Tyler A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:tyler.a.timpanaro@lmco.com
+ATTENDEE;CN="Kennedy, Christopher R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:ma
+	ilto:christopher.r.kennedy@lmco.com
+ATTENDEE;CN="Cobb, Deven R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:deve
+	n.r.cobb@lmco.com
+ATTENDEE;CN="Lee, James 3 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:james
+	.3.lee@lmco.com
+ATTENDEE;CN="Bhatt, Rahul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:rah
+	ul.m.bhatt@lmco.com
+ATTENDEE;CN="Frommer, Dov Z (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dov
+	.z.frommer@lmco.com
+ATTENDEE;CN="Kocher, Alexander (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	alexander.kocher@lmco.com
+ATTENDEE;CN="Robinson, Kevin P (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	kevin.p.robinson@lmco.com
+ATTENDEE;CN="White, Todd W (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:todd
+	.w.white@lmco.com
+ATTENDEE;CN="Dean, Jacob M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jaco
+	b.m.dean@lmco.com
+ATTENDEE;CN="Romvary Jr, Christian (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:christian.romvary.jr@lmco.com
+ATTENDEE;CN="DeMarco, Meghann E (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:meghann.e.demarco@lmco.com
+ATTENDEE;CN="Block, Allen W (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:all
+	en.w.block@lmco.com
+ATTENDEE;CN="Lewitt, Michael R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	michael.r.lewitt@lmco.com
+ATTENDEE;CN="Milner, Matthew E (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	matthew.e.milner@lmco.com
+ATTENDEE;CN="Hunt, Brian C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:bria
+	n.c.hunt@lmco.com
+ATTENDEE;CN="Mahmood, Aadil (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:aad
+	il.mahmood@lmco.com
+ATTENDEE;CN="Messics, Cole A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:co
+	le.a.messics@lmco.com
+ATTENDEE;CN="Louie, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jes
+	sica.louie@lmco.com
+ATTENDEE;CN="Lange, Nicole B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ni
+	cole.b.lange@lmco.com
+ATTENDEE;CN="Vala, Jason (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jason.
+	vala@lmco.com
+ATTENDEE;CN="Hunter, Paul G (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:pau
+	l.g.hunter@lmco.com
+ATTENDEE;CN="Patsko, Robert J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:r
+	obert.j.patsko@lmco.com
+ATTENDEE;CN="Chowdhury, Shahnila M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:shahnila.m.chowdhury@lmco.com
+ATTENDEE;CN="Ciesielka, Kristen (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:kristen.ciesielka@lmco.com
+ATTENDEE;CN="Gauda, Jean (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jean.g
+	auda@lmco.com
+ATTENDEE;CN="Hancock, Stephanie L (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:stephanie.l.hancock@lmco.com
+ATTENDEE;CN="Jacobsen, Eric 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:e
+	ric.1.jacobsen@lmco.com
+ATTENDEE;CN="Koehr, Erik J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:erik
+	.j.koehr@lmco.com
+ATTENDEE;CN="Miller, Weston J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:w
+	eston.j.miller@lmco.com
+ATTENDEE;CN="Rais, Nathan (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:natha
+	n.rais@lmco.com
+ATTENDEE;CN="Sakele III, Michael R (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:michael.r.sakele.iii@lmco.com
+ATTENDEE;CN="Wood, Matthew 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ma
+	tthew.1.wood@lmco.com
+ATTENDEE;CN="Wu, Andy (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:andy.wu@l
+	mco.com
+ATTENDEE;CN="Arnott, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:da
+	vid.b.arnott@lmco.com
+ATTENDEE;CN="Ramos Peralta, Luis A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:luis.a.ramos.peralta@lmco.com
+ATTENDEE;CN="Campbell I, Paul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:paul.m.campbell.i@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Bennett, Edward L1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:edward.l1.bennett@lmco.com
+ATTENDEE;CN="Luz, Maxwell G (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:max
+	well.g.luz@lmco.com
+ATTENDEE;CN="Vitrano, Andre M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:a
+	ndre.m.vitrano@lmco.com
+ATTENDEE;CN="Norkus, Ryan A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:rya
+	n.a.norkus@lmco.com
+ATTENDEE;CN="Becker, Richard J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	richard.j.becker@lmco.com
+ATTENDEE;CN="Avallone, William (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	william.avallone@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dav
+	id.b.reese@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jessi
+	ca.guo@lmco.com
+ATTENDEE;CN="McLean Jr, Clayton C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:clayton.c.mclean.jr@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	grace.m.hamilton@lmco.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:benjamin.l.thomson@lmco.com
+ATTENDEE;CN="Ambris, Andrew (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:and
+	rew.ambris@lmco.com
+ATTENDEE;CN="Prestia, Matthew (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:matthew.prestia@lmco.com
+ATTENDEE;CN="Vasu, Alexander (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:al
+	exander.vasu@lmco.com
+ATTENDEE;CN="Quade, Ryan (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ryan.q
+	uade@lmco.com
+CLASS:PUBLIC
+CREATED:20241106T164602Z
+DESCRIPTION:When: Occurs the first Tuesday of every 1 month(s) effective 12
+	/3/2024 from 10:00 AM to 11:00 AM (UTC-05:00) Eastern Time (US & Canada).\
+	n\nWhere: Microsoft Teams Meeting\; & 780-382\n\n \n\nNote: The GMT offset
+	 above does not reflect daylight saving time adjustments.\n\n \n\n*~*~*~*~
+	*~*~*~*~*~*\n\n \n\n \n\n \n\n-----Original Appointment-----\nFrom: Weir\,
+	 Robert E (US) <robert.e.weir@lmco.com> \nSent: Wednesday\, November 6\, 2
+	024 11:46 AM\nTo: Weir\, Robert E (US)\; Bauman\, Joseph C (US)\; Benavide
+	s\, Dylan W (US)\; Berkowitz\, Noah J (US)\; Fernandez\, Adriel J (US)\; K
+	irwin\, Michael A (US)\; Kruithof\, Ian J (US)\; Lok\, Selina (US)\; Luban
+	\, Jeffrey M (US)\; Martinez Jr Jr\, Raul (US)\; Muccifori\, Thomas M (US)
+	\; OConnor\, Paul M (US)\; Robison\, Kimberly (US)\; Sweeney Jr\, Thomas F
+	 (US)\; Thapa\, Rajeev J (US)\; Ciullo\, Matthew J (US)\; DiBuono\, Michae
+	l J (US)\; Hack\, Peter J (US)\; Lafrance\, Ryann (US)\; McDermott\, Victo
+	ria (US)\; Oldrati\, Brian E (US)\; Patel\, Gaurav (US)\; Pfeiffer Jr\, Mi
+	chael (US)\; Pradhan\, Neena (US)\; Tadduni\, Joseph (US)\; Cutter\, Eric 
+	(US)\; Fell\, James M (US)\; Parra Jr\, Arturo U (US)\; Giacopelli\, Nick 
+	(US)\nCc: Slater\, Jessica M (US)\; Barnstable\, Bruce (US)\; Sesay\, Mich
+	ael A (US)\; Gaugler\, Robert M (US)\; Heim\, Thomas K (US)\; Garrahan\, C
+	linton E (US)\; Daws\, Michael E (US)\; Giuliano\, Michael A (US)\; Golow\
+	, Timothy A (US)\; Grossmann\, Josef N (US)\; Iqbal\, Kinza (US)\; Kubiak\
+	, Gregory R (US)\; Jones\, Layne M (US)\; Krott\, Deborah B (US)\; Baker\,
+	 Ryan C (US)\; Saud\, Nabeel (US)\; Szemis\, Stephen J (US)\; Scheffler\, 
+	Julie E (US)\; Watson\, Scott B (US)\; Block\, Michael 1 (US)\; Mai\, Jian
+	hong (US)\; Smith\, Connor 1 (US)\; Tong\, Corey N (US)\; Schaffer\, Kevin
+	 S (US)\; Pellegrini\, Sydney A (US)\; Pedersen\, Richard N (US)\; Morocho
+	\, Israel S (US)\; Miller\, Dustin S1 (US)\; Heisler\, Jeffrey M (US)\; Fr
+	ankunas\, Michael (US)\; Elkayal\, Mahmoud S (US)\; Doe\, Wesley M (US)\; 
+	Choi\, Allison C (US)\; Bennett\, Edward L (US)\; Becker\, Dixie R (US)\; 
+	Timpanaro\, Tyler A (US)\; Kennedy\, Christopher R (US)\; Cobb\, Deven R (
+	US)\; Lee\, James 3 (US)\; Bhatt\, Rahul M (US)\; Frommer\, Dov Z (US)\; K
+	ocher\, Alexander (US)\; Robinson\, Kevin P (US)\; White\, Todd W (US)\; D
+	ean\, Jacob M (US)\; Romvary Jr\, Christian (US)\; DeMarco\, Meghann E (US
+	)\; Block\, Allen W (US)\; Lewitt\, Michael R (US)\; Milner\, Matthew E (U
+	S)\; Hunt\, Brian C (US)\; Mahmood\, Aadil (US)\; Messics\, Cole A (US)\; 
+	Louie\, Jessica (US)\; Lange\, Nicole B (US)\; Vala\, Jason (US)\; Hunter\
+	, Paul G (US)\; Logan\, Ryan P (US)\; West\, Justin M (US)\; Patsko\, Robe
+	rt J (US)\; Chowdhury\, Shahnila M (US)\; Ciesielka\, Kristen (US)\; Gauda
+	\, Jean (US)\; Hancock\, Stephanie L (US)\; Jacobsen\, Eric 1 (US)\; Koehr
+	\, Erik J (US)\; Miller\, Weston J (US)\; Rais\, Nathan (US)\; Sakele III\
+	, Michael R (US)\; Wood\, Matthew 1 (US)\; Wu\, Andy (US)\; Arnott\, David
+	 B (US)\; Ramos Peralta\, Luis A (US)\; Campbell I\, Paul M (US)\; Franco 
+	III\, Philip C (US)\; Bennett\, Edward L1 (US)\; Luz\, Maxwell G (US)\; Vi
+	trano\, Andre M (US)\; Norkus\, Ryan A (US)\nSubject: Monthly Project Upda
+	tes Meeting \nWhen: Occurs the first Tuesday of every 1 month(s) effective
+	 12/3/2024 from 10:00 AM to 11:00 AM (UTC-05:00) Eastern Time (US & Canada
+	).\nWhere: Microsoft Teams Meeting\; & 780-382\n\n \n\nWhen: Occurs the fi
+	rst Tuesday of every 1 month(s) effective 12/3/2024 from 10:00 AM to 11:00
+	 AM (UTC-05:00) Eastern Time (US & Canada).\n\nWhere: Microsoft Teams Meet
+	ing\; & 780-382\n\n \n\nNote: The GMT offset above does not reflect daylig
+	ht saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nPlease con
+	sider presenting at one of our Project Updates meeting to showcase what yo
+	u’ve been working on. There’s no specified format and reuse of existin
+	g material is highly encouraged.\n\nSign up at https://eide.external.lmco.
+	com/confluence/display/CSLCND/Project+Update+Meeting\n\nForward to all tha
+	t might be interested.\n\n \n\n___________________________________________
+	_____________________________________\n\nMicrosoft Teams Need help? <https
+	://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https://
+	gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting_321f5f2e878341e4b
+	3d8255e7376533f%40thread.v2/0?context=%7b%22Tid%22%3a%22b18f006c-b0fc-467d
+	-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%225035a387-3744-4e13-80b3-e93fc64c043
+	4%22%7d>  \n\nMeeting ID: 992 783 076 883 \n\nPasscode: MHGwgD \n\n_______
+	_________________________\n\nDial in by phone \n\n+1 303-824-6161\,\,87439
+	1014# <tel:+13038246161\,\,874391014>  United States\, Denver \n\n+1 408-7
+	52-8700\,\,874391014# <tel:+14087528700\,\,874391014>  United States\, Sun
+	nyvale \n\nFind a local number <https://dialin.cpc.gov.teams.microsoft.us/
+	a23b5eba-eeae-4364-952b-734d5e1384bf?id=874391014>  \n\nPhone conference I
+	D: 874 391 014# \n\nJoin on a video conferencing device \n\nTenant key: te
+	ams@CVI-gov.external.lmco.com <mailto:teams@CVI-gov.external.lmco.com>  \n
+	\nVideo ID: 513 902 453 9 \n\nMore info <https://pexip.me/teams/CVI-gov.ex
+	ternal.lmco.com/5139024539>  \n\nFor organizers: Meeting options <https://
+	gov.teams.microsoft.us/meetingOptions/?organizerId=5035a387-3744-4e13-80b3
+	-e93fc64c0434&tenantId=b18f006c-b0fc-467d-b23a-a35b5695b5dc&threadId=19_gc
+	ch_meeting_321f5f2e878341e4b3d8255e7376533f@thread.v2&messageId=0&language
+	=en-US>  | Reset dial-in PIN <https://dialin.cpc.gov.teams.microsoft.us/us
+	p>  \n\nStart your meeting with a safety message (https://tiny.lmco.com/ms
+	m) <https://tiny.lmco.com/msm>  and take credit in TZ Leader.\n\nIMPORTANT
+	: The meeting host is responsible for ensuring that the participants under
+	stand who is on the call and announcing what Sensitive Information may be 
+	disclosed\, if any. Participants in a meeting are responsible for knowing 
+	whether the information they are presenting or sharing is sensitive [e.g.\
+	, Export Controlled Information (ECI)\, LM Proprietary Information (LMPI)\
+	, or Third Party Proprietary Information (TPPI)] and whether it may be sha
+	red in the meeting. Participants are also responsible for ensuring that al
+	l Sensitive Information is appropriately marked before displaying the mate
+	rial.\n\n_________________________________________________________________
+	_______________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250805T110000
+DTSTAMP:20241106T164537Z
+DTSTART;TZID="Eastern Standard Time":20250805T100000
+LAST-MODIFIED:20250701T171551Z
+LOCATION:Microsoft Teams Meeting\; & 780-382
+ORGANIZER;CN="Weir, Robert E (US)":mailto:robert.e.weir@lmco.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=1;BYDAY=TU;BYSETPOS=1
+SEQUENCE:0
+SUMMARY:Monthly Project Updates Meeting 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000603B6D373F30DB01000000000000000
+	010000000C42E29DA16FEFA4DA25572D6819CF17E
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{
+	font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style Defi
+	nitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	f
+	ont-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-ligatures:st
+	andardcontextual\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;
+	\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.me-email-text\n	{m
+	so-style-name:me-email-text\;}\nspan.me-email-text-secondary\n	{mso-style-
+	name:me-email-text-secondary\;}\nspan.me-email-headline\n	{mso-style-name:
+	me-email-headline\;}\nspan.EmailStyle21\n	{mso-style-type:personal-reply\;
+	\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefau
+	lt\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:no
+	ne\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0i
+	n 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if g
+	te mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><!
+	[endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap
+	 v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body 
+	lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:break-word"><
+	div class="WordSection1"><p class="MsoNormal">When: Occurs the first Tuesd
+	ay of every 1 month(s) effective 12/3/2024 from 10:00 AM to 11:00 AM (UTC-
+	05:00) Eastern Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"
+	>Where: Microsoft Teams Meeting\; &amp\; 780-382<o:p></o:p></p><p class="M
+	soNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GMT offset 
+	above does not reflect daylight saving time adjustments.<o:p></o:p></p><p 
+	class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*
+	~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="
+	MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></
+	p><div><p class="MsoNormal"><span style="mso-ligatures:none">-----Original
+	 Appointment-----<br><b>From:</b> Weir\, Robert E (US) &lt\;robert.e.weir@
+	lmco.com&gt\; <br><b>Sent:</b> Wednesday\, November 6\, 2024 11:46 AM<br><
+	b>To:</b> Weir\, Robert E (US)\; Bauman\, Joseph C (US)\; Benavides\, Dyla
+	n W (US)\; Berkowitz\, Noah J (US)\; Fernandez\, Adriel J (US)\; Kirwin\, 
+	Michael A (US)\; Kruithof\, Ian J (US)\; Lok\, Selina (US)\; Luban\, Jeffr
+	ey M (US)\; Martinez Jr Jr\, Raul (US)\; Muccifori\, Thomas M (US)\; OConn
+	or\, Paul M (US)\; Robison\, Kimberly (US)\; Sweeney Jr\, Thomas F (US)\; 
+	Thapa\, Rajeev J (US)\; Ciullo\, Matthew J (US)\; DiBuono\, Michael J (US)
+	\; Hack\, Peter J (US)\; Lafrance\, Ryann (US)\; McDermott\, Victoria (US)
+	\; Oldrati\, Brian E (US)\; Patel\, Gaurav (US)\; Pfeiffer Jr\, Michael (U
+	S)\; Pradhan\, Neena (US)\; Tadduni\, Joseph (US)\; Cutter\, Eric (US)\; F
+	ell\, James M (US)\; Parra Jr\, Arturo U (US)\; Giacopelli\, Nick (US)<br>
+	<b>Cc:</b> Slater\, Jessica M (US)\; Barnstable\, Bruce (US)\; Sesay\, Mic
+	hael A (US)\; Gaugler\, Robert M (US)\; Heim\, Thomas K (US)\; Garrahan\, 
+	Clinton E (US)\; Daws\, Michael E (US)\; Giuliano\, Michael A (US)\; Golow
+	\, Timothy A (US)\; Grossmann\, Josef N (US)\; Iqbal\, Kinza (US)\; Kubiak
+	\, Gregory R (US)\; Jones\, Layne M (US)\; Krott\, Deborah B (US)\; Baker\
+	, Ryan C (US)\; Saud\, Nabeel (US)\; Szemis\, Stephen J (US)\; Scheffler\,
+	 Julie E (US)\; Watson\, Scott B (US)\; Block\, Michael 1 (US)\; Mai\, Jia
+	nhong (US)\; Smith\, Connor 1 (US)\; Tong\, Corey N (US)\; Schaffer\, Kevi
+	n S (US)\; Pellegrini\, Sydney A (US)\; Pedersen\, Richard N (US)\; Moroch
+	o\, Israel S (US)\; Miller\, Dustin S1 (US)\; Heisler\, Jeffrey M (US)\; F
+	rankunas\, Michael (US)\; Elkayal\, Mahmoud S (US)\; Doe\, Wesley M (US)\;
+	 Choi\, Allison C (US)\; Bennett\, Edward L (US)\; Becker\, Dixie R (US)\;
+	 Timpanaro\, Tyler A (US)\; Kennedy\, Christopher R (US)\; Cobb\, Deven R 
+	(US)\; Lee\, James 3 (US)\; Bhatt\, Rahul M (US)\; Frommer\, Dov Z (US)\; 
+	Kocher\, Alexander (US)\; Robinson\, Kevin P (US)\; White\, Todd W (US)\; 
+	Dean\, Jacob M (US)\; Romvary Jr\, Christian (US)\; DeMarco\, Meghann E (U
+	S)\; Block\, Allen W (US)\; Lewitt\, Michael R (US)\; Milner\, Matthew E (
+	US)\; Hunt\, Brian C (US)\; Mahmood\, Aadil (US)\; Messics\, Cole A (US)\;
+	 Louie\, Jessica (US)\; Lange\, Nicole B (US)\; Vala\, Jason (US)\; Hunter
+	\, Paul G (US)\; Logan\, Ryan P (US)\; West\, Justin M (US)\; Patsko\, Rob
+	ert J (US)\; Chowdhury\, Shahnila M (US)\; Ciesielka\, Kristen (US)\; Gaud
+	a\, Jean (US)\; Hancock\, Stephanie L (US)\; Jacobsen\, Eric 1 (US)\; Koeh
+	r\, Erik J (US)\; Miller\, Weston J (US)\; Rais\, Nathan (US)\; Sakele III
+	\, Michael R (US)\; Wood\, Matthew 1 (US)\; Wu\, Andy (US)\; Arnott\, Davi
+	d B (US)\; Ramos Peralta\, Luis A (US)\; Campbell I\, Paul M (US)\; Franco
+	 III\, Philip C (US)\; Bennett\, Edward L1 (US)\; Luz\, Maxwell G (US)\; V
+	itrano\, Andre M (US)\; Norkus\, Ryan A (US)<br><b>Subject:</b> Monthly Pr
+	oject Updates Meeting <br><b>When:</b> Occurs the first Tuesday of every 1
+	 month(s) effective 12/3/2024 from 10:00 AM to 11:00 AM (UTC-05:00) Easter
+	n Time (US &amp\; Canada).<br><b>Where:</b> Microsoft Teams Meeting\; &amp
+	\; 780-382<o:p></o:p></span></p></div><p class="MsoNormal"><o:p>&nbsp\;</o
+	:p></p><p class="MsoNormal">When: Occurs the first Tuesday of every 1 mont
+	h(s) effective 12/3/2024 from 10:00 AM to 11:00 AM (UTC-05:00) Eastern Tim
+	e (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal">Where: Microsoft 
+	Teams Meeting\; &amp\; 780-382<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p><p class="MsoNormal">Note: The GMT offset above does not ref
+	lect daylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal">
+	<o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p><
+	/p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p>Please consider presentin
+	g at one of our Project Updates meeting to showcase what you&#8217\;ve bee
+	n working on. There&#8217\;s no specified format and reuse of existing mat
+	erial is highly encouraged.<o:p></o:p></p><p>Sign up at <a href="https://e
+	ide.external.lmco.com/confluence/display/CSLCND/Project+Update+Meeting" ta
+	rget="_blank" title="https://eide.external.lmco.com/confluence/display/CSL
+	CND/Project+Update+Meeting">https://eide.external.lmco.com/confluence/disp
+	lay/CSLCND/Project+Update+Meeting</a><o:p></o:p></p><p>Forward to all that
+	 might be interested.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p
+	></p><div><div style="margin-bottom:.25in\;overflow:hidden"><p class="MsoN
+	ormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:
+	#242424">_________________________________________________________________
+	_______________</span><span style="font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#242424\;mso-ligatures:none"><o:p></o:p></span></p></div><d
+	iv style="margin-bottom:9.0pt"><p class="MsoNormal"><span class="me-email-
+	text"><b><span style="font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#242424">Microsoft Teams</span></b></span><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <a href="
+	https://aka.ms/JoinTeamsMeeting?omkt=en-US"><span style="font-size:10.5pt\
+	;color:#5B5FC7">Need help?</span></a> <o:p></o:p></span></p></div><div sty
+	le="margin-bottom:4.5pt"><p class="MsoNormal"><span style="font-family:&qu
+	ot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https://gov.teams
+	.microsoft.us/l/meetup-join/19%3agcch%3ameeting_321f5f2e878341e4b3d8255e73
+	76533f%40thread.v2/0?context=%7b%22Tid%22%3a%22b18f006c-b0fc-467d-b23a-a35
+	b5695b5dc%22%2c%22Oid%22%3a%225035a387-3744-4e13-80b3-e93fc64c0434%22%7d" 
+	target="_blank" title="Meeting join link"><b><span style="font-size:15.0pt
+	\;color:#5B5FC7">Join the meeting now</span></b></a> <o:p></o:p></span></p
+	></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="
+	me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\
+	;Segoe UI&quot\;\,sans-serif\;color:#616161">Meeting ID: </span></span><sp
+	an class="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\
+	;Segoe UI&quot\;\,sans-serif\;color:#242424">992 783 076 883</span></span>
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424
+	"> <o:p></o:p></span></p></div><div style="margin-bottom:.25in"><p class="
+	MsoNormal"><span class="me-email-text-secondary"><span style="font-size:10
+	.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Passc
+	ode: </span></span><span class="me-email-text"><span style="font-size:10.5
+	pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">MHGwgD<
+	/span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:.25i
+	n"><div class="MsoNormal" align="center" style="text-align:center"><span s
+	tyle="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><hr s
+	ize="1" width="100%" align="center"></span></div></div><div><div style="ma
+	rgin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email-text"><b><sp
+	an style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424">Dial in by phone</span></b></span><span style="font-famil
+	y:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></
+	p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="t
+	el:+13038246161\,\,874391014"><span style="font-size:10.5pt\;color:#5B5FC7
+	">+1 303-824-6161\,\,874391014#</span></a> </span><span class="me-email-te
+	xt"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#616161">United States\, Denver</span></span><span style="f
+	ont-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p>
+	</span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><
+	a href="tel:+14087528700\,\,874391014"><span style="font-size:10.5pt\;colo
+	r:#5B5FC7">+1 408-752-8700\,\,874391014#</span></a> </span><span class="me
+	-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#616161">United States\, Sunnyvale</span></span><s
+	pan style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">
+	 <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="Ms
+	oNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#242424"><a href="https://dialin.cpc.gov.teams.microsoft.us/a23b5eba-eea
+	e-4364-952b-734d5e1384bf?id=874391014"><span style="font-size:10.5pt\;colo
+	r:#5B5FC7">Find a local number</span></a> <o:p></o:p></span></p></div></di
+	v><div style="margin-bottom:.25in"><p class="MsoNormal"><span class="me-em
+	ail-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#616161">Phone conference ID: </span></span
+	><span class="me-email-text"><span style="font-size:10.5pt\;font-family:&q
+	uot\;Segoe UI&quot\;\,sans-serif\;color:#242424">874 391 014#</span></span
+	><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24242
+	4"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class=
+	"MsoNormal"><span class="me-email-headline"><b><span style="font-size:12.0
+	pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Join on
+	 a video conferencing device</span></b></span><span style="font-family:&qu
+	ot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></d
+	iv><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-e
+	mail-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot
+	\;\,sans-serif\;color:#616161">Tenant key: </span></span><span class="me-e
+	mail-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot
+	\;\,sans-serif\;color:#242424"><a href="mailto:teams@CVI-gov.external.lmco
+	.com">teams@CVI-gov.external.lmco.com</a></span></span><span style="font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></spa
+	n></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span cl
+	ass="me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Video ID: </span></span>
+	<span class="me-email-text"><span style="font-size:10.5pt\;font-family:&qu
+	ot\;Segoe UI&quot\;\,sans-serif\;color:#242424">513 902 453 9</span></span
+	><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24242
+	4"> <o:p></o:p></span></p></div><div style="margin-bottom:.25in"><p class=
+	"MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;c
+	olor:#242424"><a href="https://pexip.me/teams/CVI-gov.external.lmco.com/51
+	39024539" target="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Mo
+	re info</span></a> <o:p></o:p></span></p></div><div><p class="MsoNormal"><
+	span class="me-email-text-secondary"><span style="font-size:10.5pt\;font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">For organizers: <
+	/span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#242424"><a href="https://gov.teams.microsoft.us/meetingOptions/?org
+	anizerId=5035a387-3744-4e13-80b3-e93fc64c0434&amp\;tenantId=b18f006c-b0fc-
+	467d-b23a-a35b5695b5dc&amp\;threadId=19_gcch_meeting_321f5f2e878341e4b3d82
+	55e7376533f@thread.v2&amp\;messageId=0&amp\;language=en-US" target="_blank
+	"><span style="font-size:10.5pt\;color:#5B5FC7">Meeting options</span></a>
+	 </span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#D1D1D1">|</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#242424"> <a href="https://dialin.cpc.gov.teams.microsoft.us/us
+	p" target="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Reset dia
+	l-in PIN</span></a> <o:p></o:p></span></p></div><div style="margin-top:.25
+	in\;margin-bottom:4.5pt"><div><p class="MsoNormal"><span style="font-size:
+	10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Sta
+	rt your meeting with a safety message <a href="https://tiny.lmco.com/msm">
+	(https://tiny.lmco.com/msm)</a> and take credit in TZ Leader.<br><br>IMPOR
+	TANT: The meeting host is responsible for ensuring that the participants u
+	nderstand who is on the call and announcing what Sensitive Information may
+	 be disclosed\, if any. Participants in a meeting are responsible for know
+	ing whether the information they are presenting or sharing is sensitive [e
+	.g.\, Export Controlled Information (ECI)\, LM Proprietary Information (LM
+	PI)\, or Third Party Proprietary Information (TPPI)] and whether it may be
+	 shared in the meeting. Participants are also responsible for ensuring tha
+	t all Sensitive Information is appropriately marked before displaying the 
+	material.<o:p></o:p></span></p></div></div><div style="margin-bottom:.25in
+	\;overflow:hidden"><p class="MsoNormal"><span style="font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#242424">________________________________
+	________________________________________________<o:p></o:p></span></p></di
+	v></div><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:7
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="dl-RMS, Additional Employees";RSVP=FALSE:mailto:AdditionalEmpl
+	oyees.dlRMS@exch.ems.lmco.com
+ATTENDEE;CN="dl-RMS, AdditionalManagers";RSVP=FALSE:mailto:additionalmanage
+	rs.dl-rms@exch.ems.lmco.com
+ATTENDEE;CN="dl-RMS, SLT";RSVP=FALSE:mailto:SLT.dl-RMS@exch.ems.lmco.com
+ATTENDEE;CN="dl-RMS, All Employees";RSVP=FALSE:mailto:AllEmployees.dlRMS@ex
+	ch.ems.lmco.com
+ATTENDEE;CN="Naulty, Machelle K [US] (SP) (Contr)";ROLE=OPT-PARTICIPANT;RSV
+	P=FALSE:mailto:machelle.naulty@ngc.com
+ATTENDEE;CN="Burton, Madie (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:mad
+	ie.burton@lmco.com
+CLASS:PUBLIC
+CREATED:20241209T175537Z
+DESCRIPTION:When: Tuesday\, July 22\, 2025 9:05 AM-10:00 AM (UTC-05:00) Eas
+	tern Time (US & Canada).\n\n \n\nNote: The GMT offset above does not refle
+	ct daylight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nP
+	lease join RMS President Stephanie C. Hill\n\non Tuesday\, July 22\, at 9:
+	05 a.m. Eastern Time\n\nfor RMS Live! from PZL\, Poland.\n\n \n\nIn the sp
+	irit of OneLM and supporting our non-U.S. team members\,\nwe’ve schedule
+	d this webcast earlier in the day to better accommodate their work hours.\
+	n\n \n\nNOTE: We are trying something new this quarter! Stephanie will sha
+	re the 2Q25 earnings live during the webcast.\n\n \n\n➡️ Submit your q
+	uestion or comment before the webcast here <https://tiny.lmco.com/rmslive0
+	72225invite> . Click the question bubble in the upper right corner and the
+	n click Ask\, or send a reply to this email. While Engagement Time during 
+	the webcast is limited\, all feedback will be shared with the presenters\n
+	\n \n\n➡️ Join the live webcast by clicking here July 22 <https://tiny
+	.lmco.com/rmslive072225invite> . Please contact the Lockheed Martin Servic
+	e Desk at 1-800-435-7063 if you experience technical difficulties accessin
+	g the webcast. Closed captioning is available via Chrome web browser <http
+	s://webcasts.us.lmco.com/ChromeCC.htm> . A separate invitation was sent fo
+	r limited in-person seating at PZL in Poland.\n\n \n\n➡️ Review the re
+	play shared following the live webcast. Click here for the April webcast r
+	eplay featuring insights from Government Affairs <https://tiny.lmco.com/rm
+	slive042425replay> . \n\n \n\n➡️ What could make the RMS Live! webcast
+	 more valuable to you? Stephanie wants to know what would make it better! 
+	Reply to this email and let us know what you’d like to see.\n\n\n\n­\n\
+	n
+DTEND;TZID="Eastern Standard Time":20250722T100000
+DTSTAMP:20250708T133513Z
+DTSTART;TZID="Eastern Standard Time":20250722T090500
+LAST-MODIFIED:20250708T133702Z
+ORGANIZER;CN="RMS, President Stephanie C Hill (RESOURCE)":mailto:president.
+	stephanie.c.hill.rms@lmco.com
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Save the Date - 2Q25 Earnings and RMS Live! from PZL\, Poland
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000040FAFE76374ADB01000000000000000
+	0100000000A8A9EDC8FF894439E82A5AE9401F202
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:* {
+	behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\:*
+	 {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n</
+	style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{font-
+	family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{f
+	ont-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{fon
+	t-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI Symbol"\;\n	panose-
+	1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNo
+	rmal\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"C
+	alibri"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span
+	.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decorati
+	on:underline\;}\nspan.EmailStyle19\n	{mso-style-type:personal-compose\;\n	
+	font-family:"Arial"\,sans-serif\;}\n.MsoChpDefault\n	{mso-style-type:expor
+	t-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\
+	n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSectio
+	n1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shaped
+	efaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 
+	9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\
+	n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#0563C1
+	" vlink="#954F72" style="word-wrap:break-word"><div class="WordSection1"><
+	table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" st
+	yle="border-collapse:collapse"><tr><td width="804" valign="top" style="wid
+	th:603.0pt\;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal">When: Tuesda
+	y\, July 22\, 2025 9:05 AM-10:00 AM (UTC-05:00) Eastern Time (US &amp\; Ca
+	nada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="
+	MsoNormal">Note: The GMT offset above does not reflect daylight saving tim
+	e adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p
+	 class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal">
+	<o:p>&nbsp\;</o:p></p><p class="MsoNormal" align="center" style="text-alig
+	n:center"><span style="font-family:&quot\;Arial&quot\;\,sans-serif">Please
+	 join RMS President Stephanie C. Hill<o:p></o:p></span></p><p class="MsoNo
+	rmal" align="center" style="text-align:center"><span style="font-family:&q
+	uot\;Arial&quot\;\,sans-serif">on Tuesday\, July 22\, at 9:05 a.m. Eastern
+	 Time<o:p></o:p></span></p><p class="MsoNormal" align="center" style="text
+	-align:center"><span style="font-family:&quot\;Arial&quot\;\,sans-serif">f
+	or RMS Live! from PZL\, Poland.<o:p></o:p></span></p><p class="MsoNormal" 
+	align="center" style="text-align:center"><span style="font-family:&quot\;A
+	rial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"
+	 align="center" style="text-align:center"><i><span style="font-family:&quo
+	t\;Arial&quot\;\,sans-serif">In the spirit of OneLM and supporting our non
+	-U.S. team members\,<br>we’ve scheduled this webcast earlier in the day 
+	to better accommodate their work hours.<o:p></o:p></span></i></p><p class=
+	"MsoNormal" align="center" style="text-align:center"><i><span style="font-
+	family:&quot\;Arial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></i></p><
+	p class="MsoNormal"><b><span style="font-family:&quot\;Arial&quot\;\,sans-
+	serif">NOTE: We are trying something new this quarter! Stephanie will shar
+	e the 2Q25 earnings live during the webcast.<o:p></o:p></span></b></p><p c
+	lass="MsoNormal"><b><span style="font-family:&quot\;Arial&quot\;\,sans-ser
+	if"><o:p>&nbsp\;</o:p></span></b></p><p class="MsoNormal"><b><span style="
+	font-family:&quot\;Segoe UI Symbol&quot\;\,sans-serif">➡</span></b><b><s
+	pan style="font-family:&quot\;Arial&quot\;\,sans-serif">️ Submit your qu
+	estion or comment <a name="_Hlk193893527"></a><a href="https://tiny.lmco.c
+	om/rmslive072225invite"><span style="mso-bookmark:_Hlk193893527">before th
+	e webcast here</span><span style="mso-bookmark:_Hlk193893527"></span></a><
+	/span></b><span style="mso-bookmark:_Hlk193893527"><span style="font-famil
+	y:&quot\;Arial&quot\;\,sans-serif">. Click the question bubble in the uppe
+	r right corner and then click Ask\, or send a reply to this email. </span>
+	</span><span style="font-family:&quot\;Arial&quot\;\,sans-serif">While Eng
+	agement Time during the webcast is limited\, all feedback will be shared w
+	ith the presenters<o:p></o:p></span></p><p class="MsoNormal"><span style="
+	font-family:&quot\;Arial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p>
+	<p class="MsoNormal"><b><span style="font-family:&quot\;Segoe UI Symbol&qu
+	ot\;\,sans-serif">➡</span></b><b><span style="font-family:&quot\;Arial&q
+	uot\;\,sans-serif">️ Join the live webcast </span></b><span style="font-
+	family:&quot\;Arial&quot\;\,sans-serif"><a href="https://tiny.lmco.com/rms
+	live072225invite"><b>by clicking here July 22</b></a>. Please contact the 
+	Lockheed Martin Service Desk at 1-800-435-7063 if you experience technical
+	 difficulties accessing the webcast. <a href="https://webcasts.us.lmco.com
+	/ChromeCC.htm"><b>Closed captioning is available via Chrome web browser</b
+	></a>. A separate invitation was sent for limited in-person seating at PZL
+	 in Poland.<o:p></o:p></span></p><p class="MsoNormal"><span style="font-fa
+	mily:&quot\;Arial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p><p clas
+	s="MsoNormal"><b><span style="font-family:&quot\;Segoe UI Symbol&quot\;\,s
+	ans-serif">➡</span></b><b><span style="font-family:&quot\;Arial&quot\;\,
+	sans-serif">️ Review the replay</span></b><span style="font-family:&quot
+	\;Arial&quot\;\,sans-serif"> shared following the live webcast. <a href="h
+	ttps://tiny.lmco.com/rmslive042425replay"><b>Click here for the April webc
+	ast replay featuring insights from Government Affairs</b></a>.</span> <o:p
+	></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"
+	><b><span style="font-family:&quot\;Segoe UI Symbol&quot\;\,sans-serif">
+	➡</span></b><b><span style="font-family:&quot\;Arial&quot\;\,sans-serif"
+	>️ What could make the RMS Live! webcast more valuable to you? </span></
+	b><span style="font-family:&quot\;Arial&quot\;\,sans-serif">Stephanie want
+	s to know what would make it better! Reply to this email and let us know w
+	hat you’d like to see.<o:p></o:p></span></p><p align="center" style="tex
+	t-align:center"><img border="0" width="750" height="422" style="width:7.81
+	25in\;height:4.3958in" id="Picture_x0020_1" src="cid:image001.jpg@01DBEFE9
+	.85694A10"><o:p></o:p></p></td></tr></table><p class="MsoNormal"><span sty
+	le="font-family:&quot\;Arial&quot\;\,sans-serif">­<o:p></o:p></span></p><
+	/div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20250415T125611Z
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Larcomb, Christian C (US N-ADVANCED SCIENCE'S AND TECHNOLOGIES
+	, LLC)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Pradhan, Neena (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:invalid:nomail
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:corey.n.tong@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Campbell I, Paul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:paul.m.campbell.i@lmco.com
+ATTENDEE;CN="Arnott, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:david.b.arnott@lmco.com
+CLASS:PUBLIC
+CREATED:20250116T183133Z
+DESCRIPTION:Taking over the meeting notice from Clayton\n\n________________
+	________________________________________________________________\n\nMicros
+	oft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoi
+	n the meeting now <https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%
+	3ameeting_6675a1cef44f4d13a886d919a6dd9004%40thread.v2/0?context=%7b%22Tid
+	%22%3a%22b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22252430e1
+	-ea4a-4cac-8d49-0085ab6b1a95%22%7d>  \n\nMeeting ID: 992 770 093 151 \n\nP
+	asscode: Vx9ft9ZB \n\n________________________________\n\nDial in by phone
+	 \n\n+1 303-824-6161\,\,244390989# <tel:+13038246161\,\,244390989>  United
+	 States\, Denver \n\n+1 408-752-8700\,\,244390989# <tel:+14087528700\,\,24
+	4390989>  United States\, San Jose \n\nFind a local number <https://dialin
+	.cpc.gov.teams.microsoft.us/a23b5eba-eeae-4364-952b-734d5e1384bf?id=244390
+	989>  \n\nPhone conference ID: 244 390 989# \n\nJoin on a video conferenci
+	ng device \n\nTenant key: teams@CVI-gov.external.lmco.com \n\nVideo ID: 51
+	3 164 624 0 \n\nMore info <https://pexip.me/teams/CVI-gov.external.lmco.co
+	m/5131646240>  \n\nFor organizers: Meeting options <https://gov.teams.micr
+	osoft.us/meetingOptions/?organizerId=252430e1-ea4a-4cac-8d49-0085ab6b1a95&
+	tenantId=b18f006c-b0fc-467d-b23a-a35b5695b5dc&threadId=19_gcch_meeting_667
+	5a1cef44f4d13a886d919a6dd9004@thread.v2&messageId=0&language=en-US>  | Res
+	et dial-in PIN <https://dialin.cpc.gov.teams.microsoft.us/usp>  \n\nStart 
+	your meeting with a safety message (https://tiny.lmco.com/msm) <https://ti
+	ny.lmco.com/msm>  and take credit in TZ Leader.\n\nIMPORTANT: The meeting 
+	host is responsible for ensuring that the participants understand who is o
+	n the call and announcing what Sensitive Information may be disclosed\, if
+	 any. Participants in a meeting are responsible for knowing whether the in
+	formation they are presenting or sharing is sensitive [e.g.\, Export Contr
+	olled Information (ECI)\, LM Proprietary Information (LMPI)\, or Third Par
+	ty Proprietary Information (TPPI)] and whether it may be shared in the mee
+	ting. Participants are also responsible for ensuring that all Sensitive In
+	formation is appropriately marked before displaying the material.\n\n_____
+	__________________________________________________________________________
+	_\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250709T150000
+DTSTAMP:20250122T190145Z
+DTSTART;TZID="Eastern Standard Time":20250709T140000
+LAST-MODIFIED:20250702T174655Z
+LOCATION:CAM-2-C300 California
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=WE
+SEQUENCE:3
+SUMMARY:C3ISim In-Person Scrum
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080A778AF1A68DB01000000000000000
+	010000000A9B02DE2C1BEAC4F817F19201D045D65
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:
+	2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorm
+	al\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Apt
+	os"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.Mso
+	Hyperlink\n	{mso-style-priority:99\;\n	color:#467886\;\n	text-decoration:u
+	nderline\;}\nspan.me-email-text\n	{mso-style-name:me-email-text\;}\nspan.m
+	e-email-text-secondary\n	{mso-style-name:me-email-text-secondary\;}\nspan.
+	me-email-headline\n	{mso-style-name:me-email-headline\;}\nspan.EmailStyle2
+	1\n	{mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:
+	export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSect
+	ion1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordS
+	ection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:s
+	hapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte
+	 mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1
+	" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#4
+	67886" vlink="#96607D" style="word-wrap:break-word"><div class="WordSectio
+	n1"><p class="MsoNormal">Taking over the meeting notice from Clayton<o:p><
+	/o:p></p><div><div><div style="margin-bottom:.25in\;overflow:hidden"><p cl
+	ass="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#242424">________________________________________________________
+	________________________</span><span style="font-size:12.0pt\;font-family:
+	&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424\;mso-ligatures:none"><o:
+	p></o:p></span></p></div><div style="margin-bottom:9.0pt"><p class="MsoNor
+	mal"><span class="me-email-text"><b><span style="font-size:18.0pt\;font-fa
+	mily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Microsoft Teams</s
+	pan></b></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424"> <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><sp
+	an style="font-size:10.5pt\;color:#5B5FC7">Need help?</span></a> <o:p></o:
+	p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting
+	_6675a1cef44f4d13a886d919a6dd9004%40thread.v2/0?context=%7b%22Tid%22%3a%22
+	b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22252430e1-ea4a-4ca
+	c-8d49-0085ab6b1a95%22%7d" target="_blank" title="Meeting join link"><b><s
+	pan style="font-size:15.0pt\;color:#5B5FC7">Join the meeting now</span></b
+	></a> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p clas
+	s="MsoNormal"><span class="me-email-text-secondary"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Me
+	eting ID: </span></span><span class="me-email-text"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">99
+	2 770 093 151</span></span><span style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style="marg
+	in-bottom:.25in"><p class="MsoNormal"><span class="me-email-text-secondary
+	"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\;color:#616161">Passcode: </span></span><span class="me-email-text">
+	<span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#242424">Vx9ft9ZB</span></span><span style="font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><
+	div style="margin-bottom:.25in"><div class="MsoNormal" align="center" styl
+	e="text-align:center"><span style="font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#242424"><hr size="1" width="100%" align="center"></span></
+	div></div><div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span
+	 class="me-email-text"><b><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#242424">Dial in by phone</span></b></span><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:
+	p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="tel:+13038246161\,\,244390989"><span style="font-size:10.5pt\;co
+	lor:#5B5FC7">+1 303-824-6161\,\,244390989#</span></a> </span><span class="
+	me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#616161">United States\, Denver</span></span><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> 
+	<o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="Mso
+	Normal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#242424"><a href="tel:+14087528700\,\,244390989"><span style="font-size:1
+	0.5pt\;color:#5B5FC7">+1 408-752-8700\,\,244390989#</span></a> </span><spa
+	n class="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#616161">United States\, San Jose</span
+	></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p
+	 class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\;color:#242424"><a href="https://dialin.cpc.gov.teams.microsoft.us/a2
+	3b5eba-eeae-4364-952b-734d5e1384bf?id=244390989"><span style="font-size:10
+	.5pt\;color:#5B5FC7">Find a local number</span></a> <o:p></o:p></span></p>
+	</div></div><div style="margin-bottom:.25in"><p class="MsoNormal"><span cl
+	ass="me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Phone conference ID: </s
+	pan></span><span class="me-email-text"><span style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">244 390 989#</s
+	pan></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"
+	><p class="MsoNormal"><span class="me-email-headline"><b><span style="font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Join on a video
+	 conferencing device</span></b></span><span style="font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div 
+	style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email-tex
+	t"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#616161">Tenant key: </span></span><span class="me-email-tex
+	t"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#242424">teams@CVI-gov.external.lmco.com</span></span><span 
+	style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:
+	p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNor
+	mal"><span class="me-email-text-secondary"><span style="font-size:10.5pt\;
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Video ID: <
+	/span></span><span class="me-email-text"><span style="font-size:10.5pt\;fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">513 164 624 0
+	</span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\
+	;color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:.25
+	in"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,
+	sans-serif\;color:#242424"><a href="https://pexip.me/teams/CVI-gov.externa
+	l.lmco.com/5131646240" target="_blank"><span style="font-size:10.5pt\;colo
+	r:#5B5FC7">More info</span></a> <o:p></o:p></span></p></div><div><p class=
+	"MsoNormal"><span class="me-email-text-secondary"><span style="font-size:1
+	0.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">For 
+	organizers: </span></span><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#242424"><a href="https://gov.teams.microsoft.us/meetin
+	gOptions/?organizerId=252430e1-ea4a-4cac-8d49-0085ab6b1a95&amp\;tenantId=b
+	18f006c-b0fc-467d-b23a-a35b5695b5dc&amp\;threadId=19_gcch_meeting_6675a1ce
+	f44f4d13a886d919a6dd9004@thread.v2&amp\;messageId=0&amp\;language=en-US" t
+	arget="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Meeting optio
+	ns</span></a> </span><span style="font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#D1D1D1">|</span><span style="font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#242424"> <a href="https://dialin.cpc.gov.teams.mi
+	crosoft.us/usp" target="_blank"><span style="font-size:10.5pt\;color:#5B5F
+	C7">Reset dial-in PIN</span></a> <o:p></o:p></span></p></div><div style="m
+	argin-top:.25in\;margin-bottom:4.5pt"><div><p class="MsoNormal"><span styl
+	e="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#616161">Start your meeting with a safety message <a href="https://tiny.l
+	mco.com/msm">(https://tiny.lmco.com/msm)</a> and take credit in TZ Leader.
+	<br><br>IMPORTANT: The meeting host is responsible for ensuring that the p
+	articipants understand who is on the call and announcing what Sensitive In
+	formation may be disclosed\, if any. Participants in a meeting are respons
+	ible for knowing whether the information they are presenting or sharing is
+	 sensitive [e.g.\, Export Controlled Information (ECI)\, LM Proprietary In
+	formation (LMPI)\, or Third Party Proprietary Information (TPPI)] and whet
+	her it may be shared in the meeting. Participants are also responsible for
+	 ensuring that all Sensitive Information is appropriately marked before di
+	splaying the material.<o:p></o:p></span></p></div></div><div style="margin
+	-bottom:.25in\;overflow:hidden"><p class="MsoNormal"><span style="font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">___________________
+	_____________________________________________________________</span><span 
+	style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;c
+	olor:#242424"><o:p></o:p></span></p></div></div></div><p class="MsoNormal"
+	><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20250121T222957Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Pradhan, Neena (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:invalid:nomail
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:corey.n.tong@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:m
+	ichael.1.block@lmco.com
+ATTENDEE;CN="Campbell I, Paul M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:paul.m.campbell.i@lmco.com
+ATTENDEE;CN="Larcomb, Christian C (US N-ADVANCED SCIENCE'S AND TECHNOLOGIES
+	, LLC)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:invalid:nomail
+CLASS:PUBLIC
+CREATED:20250116T182547Z
+DESCRIPTION:When: Occurs every Monday effective 1/20/2025 from 3:30 PM to 4
+	:00 PM (UTC-05:00) Eastern Time (US & Canada).\n\nWhere: Microsoft Teams M
+	eeting\n\n \n\nNote: The GMT offset above does not reflect daylight saving
+	 time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nTaking over the mee
+	ting notice from Clayton (1/20/25)\n\n____________________________________
+	____________________________________________\n\nMicrosoft Teams Need help?
+	 <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <h
+	ttps://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting_1197de2d4d
+	5c43feab0cbd67f6330cbb%40thread.v2/0?context=%7b%22Tid%22%3a%22b18f006c-b0
+	fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22252430e1-ea4a-4cac-8d49-0085
+	ab6b1a95%22%7d>  \n\nMeeting ID: 992 863 376 435 \n\nPasscode: a5Up6Au7 \n
+	\n________________________________\n\nDial in by phone \n\n+1 303-824-6161
+	\,\,31968899# <tel:+13038246161\,\,31968899>  United States\, Denver \n\n+
+	1 408-752-8700\,\,31968899# <tel:+14087528700\,\,31968899>  United States\
+	, Sunnyvale \n\nFind a local number <https://dialin.cpc.gov.teams.microsof
+	t.us/a23b5eba-eeae-4364-952b-734d5e1384bf?id=31968899>  \n\nPhone conferen
+	ce ID: 319 688 99# \n\nJoin on a video conferencing device \n\nTenant key:
+	 teams@CVI-gov.external.lmco.com <mailto:teams@CVI-gov.external.lmco.com> 
+	 \n\nVideo ID: 513 866 617 9 \n\nMore info <https://pexip.me/teams/CVI-gov
+	.external.lmco.com/5138666179>  \n\nFor organizers: Meeting options <https
+	://gov.teams.microsoft.us/meetingOptions/?organizerId=252430e1-ea4a-4cac-8
+	d49-0085ab6b1a95&tenantId=b18f006c-b0fc-467d-b23a-a35b5695b5dc&threadId=19
+	_gcch_meeting_1197de2d4d5c43feab0cbd67f6330cbb@thread.v2&messageId=0&langu
+	age=en-US>  | Reset dial-in PIN <https://dialin.cpc.gov.teams.microsoft.us
+	/usp>  \n\nStart your meeting with a safety message (https://tiny.lmco.com
+	/msm) <https://tiny.lmco.com/msm>  and take credit in TZ Leader.\n\nIMPORT
+	ANT: The meeting host is responsible for ensuring that the participants un
+	derstand who is on the call and announcing what Sensitive Information may 
+	be disclosed\, if any. Participants in a meeting are responsible for knowi
+	ng whether the information they are presenting or sharing is sensitive [e.
+	g.\, Export Controlled Information (ECI)\, LM Proprietary Information (LMP
+	I)\, or Third Party Proprietary Information (TPPI)] and whether it may be 
+	shared in the meeting. Participants are also responsible for ensuring that
+	 all Sensitive Information is appropriately marked before displaying the m
+	aterial.\n\n______________________________________________________________
+	__________________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250714T160000
+DTSTAMP:20250116T182845Z
+DTSTART;TZID="Eastern Standard Time":20250714T153000
+LAST-MODIFIED:20250707T191550Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=MO
+SEQUENCE:1
+SUMMARY:C3ISim Virtual Scrum
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080323BB81968DB01000000000000000
+	0100000006A1F18AC74BBCD4A841B7FE8EF849C1C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:
+	2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorm
+	al\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Apt
+	os"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.Mso
+	Hyperlink\n	{mso-style-priority:99\;\n	color:#467886\;\n	text-decoration:u
+	nderline\;}\nspan.me-email-text\n	{mso-style-name:me-email-text\;}\nspan.m
+	e-email-text-secondary\n	{mso-style-name:me-email-text-secondary\;}\nspan.
+	me-email-headline\n	{mso-style-name:me-email-headline\;}\nspan.EmailStyle2
+	1\n	{mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:
+	export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSect
+	ion1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordS
+	ection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:s
+	hapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte
+	 mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1
+	" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#4
+	67886" vlink="#96607D" style="word-wrap:break-word"><div class="WordSectio
+	n1"><p class="MsoNormal">When: Occurs every Monday effective 1/20/2025 fro
+	m 3:30 PM to 4:00 PM (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p></o:
+	p></p><p class="MsoNormal">Where: Microsoft Teams Meeting<o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GM
+	T offset above does not reflect daylight saving time adjustments.<o:p></o:
+	p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~
+	*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><
+	p class="MsoNormal">Taking over the meeting notice from Clayton (1/20/25)<
+	o:p></o:p></p><div><div style="margin-bottom:.25in\;overflow:hidden"><p cl
+	ass="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#242424">________________________________________________________
+	________________________</span><span style="font-size:12.0pt\;font-family:
+	&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424\;mso-ligatures:none"><o:
+	p></o:p></span></p></div><div style="margin-bottom:9.0pt"><p class="MsoNor
+	mal"><span class="me-email-text"><b><span style="font-size:18.0pt\;font-fa
+	mily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Microsoft Teams</s
+	pan></b></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424"> <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><sp
+	an style="font-size:10.5pt\;color:#5B5FC7">Need help?</span></a> <o:p></o:
+	p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting
+	_1197de2d4d5c43feab0cbd67f6330cbb%40thread.v2/0?context=%7b%22Tid%22%3a%22
+	b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22252430e1-ea4a-4ca
+	c-8d49-0085ab6b1a95%22%7d" target="_blank" title="Meeting join link"><b><s
+	pan style="font-size:15.0pt\;color:#5B5FC7">Join the meeting now</span></b
+	></a> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p clas
+	s="MsoNormal"><span class="me-email-text-secondary"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Me
+	eting ID: </span></span><span class="me-email-text"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">99
+	2 863 376 435</span></span><span style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style="marg
+	in-bottom:.25in"><p class="MsoNormal"><span class="me-email-text-secondary
+	"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\;color:#616161">Passcode: </span></span><span class="me-email-text">
+	<span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#242424">a5Up6Au7</span></span><span style="font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><
+	div style="margin-bottom:.25in"><div class="MsoNormal" align="center" styl
+	e="text-align:center"><span style="font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#242424"><hr size="1" width="100%" align="center"></span></
+	div></div><div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span
+	 class="me-email-text"><b><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#242424">Dial in by phone</span></b></span><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:
+	p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="tel:+13038246161\,\,31968899"><span style="font-size:10.5pt\;col
+	or:#5B5FC7">+1 303-824-6161\,\,31968899#</span></a> </span><span class="me
+	-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#616161">United States\, Denver</span></span><span
+	 style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o
+	:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNo
+	rmal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	242424"><a href="tel:+14087528700\,\,31968899"><span style="font-size:10.5
+	pt\;color:#5B5FC7">+1 408-752-8700\,\,31968899#</span></a> </span><span cl
+	ass="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#616161">United States\, Sunnyvale</span></
+	span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2
+	42424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p cl
+	ass="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#242424"><a href="https://dialin.cpc.gov.teams.microsoft.us/a23b5
+	eba-eeae-4364-952b-734d5e1384bf?id=31968899"><span style="font-size:10.5pt
+	\;color:#5B5FC7">Find a local number</span></a> <o:p></o:p></span></p></di
+	v></div><div style="margin-bottom:.25in"><p class="MsoNormal"><span class=
+	"me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&quot
+	\;Segoe UI&quot\;\,sans-serif\;color:#616161">Phone conference ID: </span>
+	</span><span class="me-email-text"><span style="font-size:10.5pt\;font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">319 688 99#</span><
+	/span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p c
+	lass="MsoNormal"><span class="me-email-headline"><b><span style="font-fami
+	ly:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Join on a video conf
+	erencing device</span></b></span><span style="font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style
+	="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email-text"><s
+	pan style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#616161">Tenant key: </span></span><span class="me-email-text"><s
+	pan style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#242424"><a href="mailto:teams@CVI-gov.external.lmco.com">teams@C
+	VI-gov.external.lmco.com</a></span></span><span style="font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><
+	div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email
+	-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#616161">Video ID: </span></span><span class="
+	me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#242424">513 866 617 9</span></span><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:
+	p></span></p></div><div style="margin-bottom:.25in"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="https://pexip.me/teams/CVI-gov.external.lmco.com/5138666179" tar
+	get="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">More info</span
+	></a> <o:p></o:p></span></p></div><div><p class="MsoNormal"><span class="m
+	e-email-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;
+	Segoe UI&quot\;\,sans-serif\;color:#616161">For organizers: </span></span>
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424
+	"><a href="https://gov.teams.microsoft.us/meetingOptions/?organizerId=2524
+	30e1-ea4a-4cac-8d49-0085ab6b1a95&amp\;tenantId=b18f006c-b0fc-467d-b23a-a35
+	b5695b5dc&amp\;threadId=19_gcch_meeting_1197de2d4d5c43feab0cbd67f6330cbb@t
+	hread.v2&amp\;messageId=0&amp\;language=en-US" target="_blank"><span style
+	="font-size:10.5pt\;color:#5B5FC7">Meeting options</span></a> </span><span
+	 style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#D1D1D1">|</
+	span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2
+	42424"> <a href="https://dialin.cpc.gov.teams.microsoft.us/usp" target="_b
+	lank"><span style="font-size:10.5pt\;color:#5B5FC7">Reset dial-in PIN</spa
+	n></a> <o:p></o:p></span></p></div><div style="margin-top:.25in\;margin-bo
+	ttom:4.5pt"><div><p class="MsoNormal"><span style="font-size:10.5pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Start your meeti
+	ng with a safety message <a href="https://tiny.lmco.com/msm">(https://tiny
+	.lmco.com/msm)</a> and take credit in TZ Leader.<br><br>IMPORTANT: The mee
+	ting host is responsible for ensuring that the participants understand who
+	 is on the call and announcing what Sensitive Information may be disclosed
+	\, if any. Participants in a meeting are responsible for knowing whether t
+	he information they are presenting or sharing is sensitive [e.g.\, Export 
+	Controlled Information (ECI)\, LM Proprietary Information (LMPI)\, or Thir
+	d Party Proprietary Information (TPPI)] and whether it may be shared in th
+	e meeting. Participants are also responsible for ensuring that all Sensiti
+	ve Information is appropriately marked before displaying the material.<o:p
+	></o:p></span></p></div></div><div style="margin-bottom:.25in\;overflow:hi
+	dden"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#242424">_____________________________________________
+	___________________________________</span><span style="font-size:12.0pt\;f
+	ont-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><o:p></o:p><
+	/span></p></div></div><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></b
+	ody></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:5
+X-MS-OLK-APPTSEQTIME:20250116T182542Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Arnott, David B (US)";RSVP=FALSE:mailto:david.b.arnott@lmco.co
+	m
+ATTENDEE;CN="Avallone, William (US)";RSVP=FALSE:mailto:william.avallone@lmc
+	o.com
+ATTENDEE;CN="Campbell I, Paul M (US)";RSVP=FALSE:mailto:paul.m.campbell.i@l
+	mco.com
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=FALSE:mailto:philip.c.franco.i
+	ii@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";RSVP=FALSE:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=FALSE:mailto:grace.m.hamilton@lmc
+	o.com
+ATTENDEE;CN="Jones, Layne M (US)";RSVP=FALSE:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=FALSE:mailto:clayton.c.mclean.
+	jr@lmco.com
+ATTENDEE;CN="Reese, David B (US)";RSVP=FALSE:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";RSVP=FALSE:mailto:benjamin.l.thomson
+	@lmco.com
+CLASS:PUBLIC
+CREATED:20250131T180018Z
+DESCRIPTION:When: Occurs every 2 week(s) on Wednesday effective 2/12/2025 a
+	t 12:00 PM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The GMT o
+	ffset above does not reflect daylight saving time adjustments.\n\n \n\n*~*
+	~*~*~*~*~*~*~*~*\n\n \n\nJust send a few bullets on what you worked on or 
+	plan to work.\n\n
+DTEND;TZID="Eastern Standard Time":20250716T120000
+DTSTAMP:20250131T180015Z
+DTSTART;TZID="Eastern Standard Time":20250716T120000
+LAST-MODIFIED:20250702T154520Z
+ORGANIZER;CN="Block, Michael 1 (US)":mailto:michael.1.block@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:IOI Due
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000C0D0BB9BDF73DB01000000000000000
+	0100000007FFF09E4F3236144B1690754940AB210
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Occurs every 2 we
+	ek(s) on Wednesday effective 2/12/2025 at 12:00 PM (UTC-05:00) Eastern Tim
+	e (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p
+	></p><p class="MsoNormal">Note: The GMT offset above does not reflect dayl
+	ight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbs
+	p\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p cla
+	ss="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Just send a few 
+	bullets on what you worked on or plan to work.<o:p></o:p></p></div></body>
+	</html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Jones, Layne M (US)";RSVP=TRUE;X-MS-OLK-RESPTIME=20250203T2238
+	00Z:mailto:layne.m.jones@lmco.com
+CLASS:PUBLIC
+CREATED:20250203T223900Z
+DESCRIPTION:When: Occurs the second Monday of every 1 month(s) effective 3/
+	10/2025 from 4:00 PM to 4:30 PM (UTC-05:00) Eastern Time (US & Canada).\n\
+	nWhere: my office\n\n \n\nNote: The GMT offset above does not reflect dayl
+	ight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\n \n\n___
+	__________________________________________________________________________
+	___\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en
+	-US>  \n\nJoin the meeting now <https://gov.teams.microsoft.us/l/meetup-jo
+	in/19%3agcch%3ameeting_ab5b29e3498f41389e8a272765ad050d%40thread.v2/0?cont
+	ext=%7b%22Tid%22%3a%22b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%
+	3a%22bf59cbac-c3a0-4c2c-8549-888cb12e6d0d%22%7d>  \n\nMeeting ID: 992 114 
+	791 137 \n\nPasscode: mm3Bu7DH \n\n________________________________\n\nDia
+	l in by phone \n\n+1 303-824-6161\,\,132731858# <tel:+13038246161\,\,13273
+	1858>  United States\, Denver \n\n+1 408-752-8700\,\,132731858# <tel:+1408
+	7528700\,\,132731858>  United States\, Sunnyvale \n\nFind a local number <
+	https://dialin.cpc.gov.teams.microsoft.us/a23b5eba-eeae-4364-952b-734d5e13
+	84bf?id=132731858>  \n\nPhone conference ID: 132 731 858# \n\nJoin on a vi
+	deo conferencing device \n\nTenant key: teams@CVI-gov.external.lmco.com <m
+	ailto:teams@CVI-gov.external.lmco.com>  \n\nVideo ID: 515 601 635 1 \n\nMo
+	re info <https://pexip.me/teams/CVI-gov.external.lmco.com/5156016351>  \n\
+	nFor organizers: Meeting options <https://gov.teams.microsoft.us/meetingOp
+	tions/?organizerId=bf59cbac-c3a0-4c2c-8549-888cb12e6d0d&tenantId=b18f006c-
+	b0fc-467d-b23a-a35b5695b5dc&threadId=19_gcch_meeting_ab5b29e3498f41389e8a2
+	72765ad050d@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <ht
+	tps://dialin.cpc.gov.teams.microsoft.us/usp>  \n\nStart your meeting with 
+	a safety message (https://tiny.lmco.com/msm) <https://tiny.lmco.com/msm>  
+	and take credit in TZ Leader.\n\nIMPORTANT: The meeting host is responsibl
+	e for ensuring that the participants understand who is on the call and ann
+	ouncing what Sensitive Information may be disclosed\, if any. Participants
+	 in a meeting are responsible for knowing whether the information they are
+	 presenting or sharing is sensitive [e.g.\, Export Controlled Information 
+	(ECI)\, LM Proprietary Information (LMPI)\, or Third Party Proprietary Inf
+	ormation (TPPI)] and whether it may be shared in the meeting. Participants
+	 are also responsible for ensuring that all Sensitive Information is appro
+	priately marked before displaying the material.\n\n_______________________
+	_________________________________________________________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250714T163000
+DTSTAMP:20250602T175936Z
+DTSTART;TZID="Eastern Standard Time":20250714T160000
+LAST-MODIFIED:20250609T155836Z
+LOCATION:my office
+ORGANIZER;CN="Block, Michael 1 (US)":mailto:michael.1.block@lmco.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=1;BYDAY=MO;BYSETPOS=2
+SEQUENCE:1
+SUMMARY:Layne - 1on1
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000B701015C76DB01000000000000000
+	01000000015E879984D4D784DABE69160A8601BC1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:
+	2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorm
+	al\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Apt
+	os"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.Mso
+	Hyperlink\n	{mso-style-priority:99\;\n	color:#467886\;\n	text-decoration:u
+	nderline\;}\nspan.me-email-text\n	{mso-style-name:me-email-text\;}\nspan.m
+	e-email-text-secondary\n	{mso-style-name:me-email-text-secondary\;}\nspan.
+	me-email-headline\n	{mso-style-name:me-email-headline\;}\nspan.EmailStyle2
+	1\n	{mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:
+	export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSect
+	ion1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordS
+	ection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:s
+	hapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte
+	 mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1
+	" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#4
+	67886" vlink="#96607D" style="word-wrap:break-word"><div class="WordSectio
+	n1"><p class="MsoNormal">When: Occurs the second Monday of every 1 month(s
+	) effective 3/10/2025 from 4:00 PM to 4:30 PM (UTC-05:00) Eastern Time (US
+	 &amp\; Canada).<o:p></o:p></p><p class="MsoNormal">Where: my office<o:p><
+	/o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">N
+	ote: The GMT offset above does not reflect daylight saving time adjustment
+	s.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoN
+	ormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;
+	</o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><div><div style="marg
+	in-bottom:.25in\;overflow:hidden"><p class="MsoNormal"><span style="font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">_________________
+	_______________________________________________________________</span><spa
+	n style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\
+	;color:#242424\;mso-ligatures:none"><o:p></o:p></span></p></div><div style
+	="margin-bottom:9.0pt"><p class="MsoNormal"><span class="me-email-text"><b
+	><span style="font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\;color:#242424">Microsoft Teams</span></b></span><span style="font-fa
+	mily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <a href="https://
+	aka.ms/JoinTeamsMeeting?omkt=en-US"><span style="font-size:10.5pt\;color:#
+	5B5FC7">Need help?</span></a> <o:p></o:p></span></p></div><div style="marg
+	in-bottom:4.5pt"><p class="MsoNormal"><span style="font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#242424"><a href="https://gov.teams.microso
+	ft.us/l/meetup-join/19%3agcch%3ameeting_ab5b29e3498f41389e8a272765ad050d%4
+	0thread.v2/0?context=%7b%22Tid%22%3a%22b18f006c-b0fc-467d-b23a-a35b5695b5d
+	c%22%2c%22Oid%22%3a%22bf59cbac-c3a0-4c2c-8549-888cb12e6d0d%22%7d" target="
+	_blank" title="Meeting join link"><b><span style="font-size:15.0pt\;color:
+	#5B5FC7">Join the meeting now</span></b></a> <o:p></o:p></span></p></div><
+	div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email
+	-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#616161">Meeting ID: </span></span><span class
+	="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#242424">992 114 791 137</span></span><span st
+	yle="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p>
+	</o:p></span></p></div><div style="margin-bottom:.25in"><p class="MsoNorma
+	l"><span class="me-email-text-secondary"><span style="font-size:10.5pt\;fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Passcode: </s
+	pan></span><span class="me-email-text"><span style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">mm3Bu7DH</span>
+	</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:
+	#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:.25in"><di
+	v class="MsoNormal" align="center" style="text-align:center"><span style="
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><hr size="1
+	" width="100%" align="center"></span></div></div><div><div style="margin-b
+	ottom:4.5pt"><p class="MsoNormal"><span class="me-email-text"><b><span sty
+	le="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Dial in
+	 by phone</span></b></span><span style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style="marg
+	in-bottom:4.5pt"><p class="MsoNormal"><span style="font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#242424"><a href="tel:+13038246161\,\,13273
+	1858"><span style="font-size:10.5pt\;color:#5B5FC7">+1 303-824-6161\,\,132
+	731858#</span></a> </span><span class="me-email-text"><span style="font-si
+	ze:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">
+	United States\, Denver</span></span><span style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div st
+	yle="margin-bottom:4.5pt"><p class="MsoNormal"><span style="font-family:&q
+	uot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="tel:+14087528700
+	\,\,132731858"><span style="font-size:10.5pt\;color:#5B5FC7">+1 408-752-87
+	00\,\,132731858#</span></a> </span><span class="me-email-text"><span style
+	="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:
+	#616161">United States\, Sunnyvale</span></span><span style="font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p><
+	/div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span style="fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="http
+	s://dialin.cpc.gov.teams.microsoft.us/a23b5eba-eeae-4364-952b-734d5e1384bf
+	?id=132731858"><span style="font-size:10.5pt\;color:#5B5FC7">Find a local 
+	number</span></a> <o:p></o:p></span></p></div></div><div style="margin-bot
+	tom:.25in"><p class="MsoNormal"><span class="me-email-text-secondary"><spa
+	n style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\
+	;color:#616161">Phone conference ID: </span></span><span class="me-email-t
+	ext"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sa
+	ns-serif\;color:#242424">132 731 858#</span></span><span style="font-famil
+	y:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></
+	p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class=
+	"me-email-headline"><b><span style="font-family:&quot\;Segoe UI&quot\;\,sa
+	ns-serif\;color:#242424">Join on a video conferencing device</span></b></s
+	pan><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24
+	2424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p cla
+	ss="MsoNormal"><span class="me-email-text"><span style="font-size:10.5pt\;
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Tenant key:
+	 </span></span><span class="me-email-text"><span style="font-size:10.5pt\;
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="ma
+	ilto:teams@CVI-gov.external.lmco.com">teams@CVI-gov.external.lmco.com</a><
+	/span></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5p
+	t"><p class="MsoNormal"><span class="me-email-text-secondary"><span style=
+	"font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	616161">Video ID: </span></span><span class="me-email-text"><span style="f
+	ont-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24
+	2424">515 601 635 1</span></span><span style="font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style
+	="margin-bottom:.25in"><p class="MsoNormal"><span style="font-family:&quot
+	\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https://pexip.me/te
+	ams/CVI-gov.external.lmco.com/5156016351" target="_blank"><span style="fon
+	t-size:10.5pt\;color:#5B5FC7">More info</span></a> <o:p></o:p></span></p><
+	/div><div><p class="MsoNormal"><span class="me-email-text-secondary"><span
+	 style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#616161">For organizers: </span></span><span style="font-family:&quo
+	t\;Segoe UI&quot\;\,sans-serif\;color:#242424"><a href="https://gov.teams.
+	microsoft.us/meetingOptions/?organizerId=bf59cbac-c3a0-4c2c-8549-888cb12e6
+	d0d&amp\;tenantId=b18f006c-b0fc-467d-b23a-a35b5695b5dc&amp\;threadId=19_gc
+	ch_meeting_ab5b29e3498f41389e8a272765ad050d@thread.v2&amp\;messageId=0&amp
+	\;language=en-US" target="_blank"><span style="font-size:10.5pt\;color:#5B
+	5FC7">Meeting options</span></a> </span><span style="font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#D1D1D1">|</span><span style="font-family
+	:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <a href="https://dial
+	in.cpc.gov.teams.microsoft.us/usp" target="_blank"><span style="font-size:
+	10.5pt\;color:#5B5FC7">Reset dial-in PIN</span></a> <o:p></o:p></span></p>
+	</div><div style="margin-top:.25in\;margin-bottom:4.5pt"><div><p class="Ms
+	oNormal"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#616161">Start your meeting with a safety message <a h
+	ref="https://tiny.lmco.com/msm">(https://tiny.lmco.com/msm)</a> and take c
+	redit in TZ Leader.<br><br>IMPORTANT: The meeting host is responsible for 
+	ensuring that the participants understand who is on the call and announcin
+	g what Sensitive Information may be disclosed\, if any. Participants in a 
+	meeting are responsible for knowing whether the information they are prese
+	nting or sharing is sensitive [e.g.\, Export Controlled Information (ECI)\
+	, LM Proprietary Information (LMPI)\, or Third Party Proprietary Informati
+	on (TPPI)] and whether it may be shared in the meeting. Participants are a
+	lso responsible for ensuring that all Sensitive Information is appropriate
+	ly marked before displaying the material.<o:p></o:p></span></p></div></div
+	><div style="margin-bottom:.25in\;overflow:hidden"><p class="MsoNormal"><s
+	pan style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">
+	__________________________________________________________________________
+	______</span><span style="font-size:12.0pt\;font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#242424"><o:p></o:p></span></p></div></div><p clas
+	s="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20250203T215321Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE:mailto:dylan.w.benavides@lm
+	co.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Pradhan, Neena (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:invalid:nomail
+ATTENDEE;CN="Larcomb, Christian C (US N-ADVANCED SCIENCE'S AND TECHNOLOGIES
+	, LLC)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:invalid:nomail
+CLASS:PUBLIC
+CREATED:20250306T172958Z
+DESCRIPTION:When: Occurs every Thursday effective 3/6/2025 (UTC-05:00) East
+	ern Time (US & Canada).\n\n \n\nNote: The GMT offset above does not reflec
+	t daylight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nI 
+	will be at Tech Campus on Thursdays to support Automation team meetings/ta
+	sking\n\n
+DTEND;VALUE=DATE:20250711
+DTSTAMP:20250306T172956Z
+DTSTART;VALUE=DATE:20250710
+LAST-MODIFIED:20250702T151413Z
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Hamilton - Tech Campus
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000C0608352938EDB01000000000000000
+	010000000607F1E634368284AB6970E56F953AD58
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Occurs every Thur
+	sday effective 3/6/2025 (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p><
+	/o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">N
+	ote: The GMT offset above does not reflect daylight saving time adjustment
+	s.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoN
+	ormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;
+	</o:p></p><p class="MsoNormal">I will be at Tech Campus on Thursdays to su
+	pport Automation team meetings/tasking<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=FALSE:mailto:csl_cnd_c3isim
+	_agile.dl-mst@exch.ems.lmco.com
+CLASS:PUBLIC
+CREATED:20250502T142548Z
+DESCRIPTION:When: Occurs every Tuesday effective 5/6/2025 (UTC-05:00) Easte
+	rn Time (US & Canada).\n\n \n\nNote: The GMT offset above does not reflect
+	 daylight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nI w
+	ill be in TC on Tuesdays moving forward as it is easier for me to communic
+	ate with systems in person about issues and studies that I am involved in.
+	 \n\n \n\nThanks\,\n\nJess\n\n
+DTEND;VALUE=DATE:20250709
+DTSTAMP:20250502T142544Z
+DTSTART;VALUE=DATE:20250708
+LAST-MODIFIED:20250519T204702Z
+ORGANIZER;CN="Guo, Jessica (US)":mailto:jessica.guo@lmco.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=TU
+SEQUENCE:0
+SUMMARY:TC - Guo
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E008000000007050201C4CBBDB01000000000000000
+	0100000004F5DF833B3E28E45B9F129381089211B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 
+	1 1 1 1 1\;}\n@font-face\n	{font-family:Aptos\;}\n@font-face\n	{font-famil
+	y:"\\@DengXian"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n/* Style Definitions 
+	*/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size
+	:12.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardcont
+	extual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoCh
+	pDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatu
+	res:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0i
+	n 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!-
+	-[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</
+	xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o
+	:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head>
+	<body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-w
+	ord"><div class="WordSection1"><p class="MsoNormal">When: Occurs every Tue
+	sday effective 5/6/2025 (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p><
+	/o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">N
+	ote: The GMT offset above does not reflect daylight saving time adjustment
+	s.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoN
+	ormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;
+	</o:p></p><p class="MsoNormal"><span style="font-size:11.0pt">I will be in
+	 TC on Tuesdays moving forward as it is easier for me to communicate with 
+	systems in person about issues and studies that I am involved in. <o:p></o
+	:p></span></p><p class="MsoNormal"><span style="font-size:11.0pt"><o:p>&nb
+	sp\;</o:p></span></p><p class="MsoNormal"><span style="font-size:11.0pt">T
+	hanks\,<o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:1
+	1.0pt">Jess<o:p></o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250522T151018Z
+DTEND;TZID="Eastern Standard Time":20250715T173000
+DTSTAMP:20250708T171614Z
+DTSTART;TZID="Eastern Standard Time":20250715T170000
+LAST-MODIFIED:20250524T231444Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:volley ball
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E004BA170ACBDB01000000000000000
+	010000000EC234559BEB55746BA3837A448102C73
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250522T151036Z
+DTEND;TZID="Eastern Standard Time":20250721T173000
+DTSTAMP:20250708T171614Z
+DTSTART;TZID="Eastern Standard Time":20250721T170000
+LAST-MODIFIED:20250524T231444Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:volley ball
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000808A3B1B0ACBDB01000000000000000
+	010000000E56C9A3DE2642548AF4D26E004B6942A
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250522T151037Z
+DTEND;TZID="Eastern Standard Time":20250728T173000
+DTSTAMP:20250708T171614Z
+DTSTART;TZID="Eastern Standard Time":20250728T170000
+LAST-MODIFIED:20250524T231444Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:volley ball
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D03EE81E0ACBDB01000000000000000
+	0100000009C808D256BAAE741976D34081D6E23B8
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250522T151037Z
+DTEND;TZID="Eastern Standard Time":20250806T173000
+DTSTAMP:20250708T171614Z
+DTSTART;TZID="Eastern Standard Time":20250806T170000
+LAST-MODIFIED:20250524T231444Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:volley ball
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F0BAEC230ACBDB01000000000000000
+	01000000094A5DBBDD997DB4DB80C6F46CE9C95A5
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="dl-RMS, C3-Block";RSVP=TRUE:mailto:C3-Block.dl-RMS@exch.ems.lm
+	co.com
+ATTENDEE;CN="CAM-11-2-E239-Illinois-CLASS (VTC) / System 39";CUTYPE=RESOURC
+	E;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:CAM-11-2-E239-Il
+	linoisVTC.crrm@lmco.com
+ATTENDEE;CN="Fritschy, JuaN (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:juan.fritschy@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:grace.m.hamilton@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Norkus, Ryan A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:ryan.a.norkus@lmco.com
+ATTENDEE;CN="Avallone, William (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	william.avallone@lmco.com
+ATTENDEE;CN="Olszewski, Richard W (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:richard.w.olszewski@lmco.com
+ATTENDEE;CN="Arnott, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:david.b.arnott@lmco.com
+ATTENDEE;CN="Pfeiffer Jr, Michael (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:michael.pfeiffer.jr@lmco.com
+ATTENDEE;CN="Ramos Peralta, Luis A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:luis.a.ramos.peralta@lmco.com
+ATTENDEE;CN="Block, Allen W (US)";RSVP=TRUE:mailto:allen.w.block@lmco.com
+ATTENDEE;CN="Elkayal, Mahmoud S (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:mahmoud.s.elkayal@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+ATTENDEE;CN="Pereira, Samantha 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:samantha.1.pereira@lmco.com
+CLASS:PUBLIC
+CREATED:20250603T195307Z
+DESCRIPTION:When: Monday\, July 14\, 2025 12:00 PM-1:00 PM (UTC-05:00) East
+	ern Time (US & Canada).\n\nWhere: CAM-11-2-E239-Illinois-CLASS (VTC) / Sys
+	tem 39\n\n \n\nNote: The GMT offset above does not reflect daylight saving
+	 time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nIf you sit in Camde
+	n\, please attend in person – if unable to\, let me know.\n\n \n\nIf you
+	 sit in Moorestown\, feel free to use the Teams link.\n\n \n\nLet me know 
+	if unable to attend and I can send you a notice for a different manager’
+	s session.\n\n \n\nThanks\,\n\nMike\n\n \n\n______________________________
+	__________________________________________________\n\nMicrosoft Teams Need
+	 help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting 
+	now <https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting_7c57
+	02032c044f289295455d5ac08593%40thread.v2/0?context=%7b%22Tid%22%3a%22b18f0
+	06c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22bf59cbac-c3a0-4c2c-854
+	9-888cb12e6d0d%22%7d>  \n\nMeeting ID: 992 393 290 85 \n\nPasscode: Rs2WE2
+	oV \n\n________________________________\n\nDial in by phone \n\n+1 303-824
+	-6161\,\,659613435# <tel:+13038246161\,\,659613435>  United States\, Denve
+	r \n\n+1 408-752-8700\,\,659613435# <tel:+14087528700\,\,659613435>  Unite
+	d States\, Sunnyvale \n\nFind a local number <https://dialin.cpc.gov.teams
+	.microsoft.us/a23b5eba-eeae-4364-952b-734d5e1384bf?id=659613435>  \n\nPhon
+	e conference ID: 659 613 435# \n\nJoin on a video conferencing device \n\n
+	Tenant key: teams@CVI-gov.external.lmco.com <mailto:teams@CVI-gov.external
+	.lmco.com>  \n\nVideo ID: 518 075 938 2 \n\nMore info <https://pexip.me/te
+	ams/CVI-gov.external.lmco.com/5180759382>  \n\nFor organizers: Meeting opt
+	ions <https://gov.teams.microsoft.us/meetingOptions/?organizerId=bf59cbac-
+	c3a0-4c2c-8549-888cb12e6d0d&tenantId=b18f006c-b0fc-467d-b23a-a35b5695b5dc&
+	threadId=19_gcch_meeting_7c5702032c044f289295455d5ac08593@thread.v2&messag
+	eId=0&language=en-US>  | Reset dial-in PIN <https://dialin.cpc.gov.teams.m
+	icrosoft.us/usp>  \n\nStart your meeting with a safety message (https://ti
+	ny.lmco.com/msm) <https://tiny.lmco.com/msm>  and take credit in TZ Leader
+	.\n\nIMPORTANT: The meeting host is responsible for ensuring that the part
+	icipants understand who is on the call and announcing what Sensitive Infor
+	mation may be disclosed\, if any. Participants in a meeting are responsibl
+	e for knowing whether the information they are presenting or sharing is se
+	nsitive [e.g.\, Export Controlled Information (ECI)\, LM Proprietary Infor
+	mation (LMPI)\, or Third Party Proprietary Information (TPPI)] and whether
+	 it may be shared in the meeting. Participants are also responsible for en
+	suring that all Sensitive Information is appropriately marked before displ
+	aying the material.\n\n___________________________________________________
+	_____________________________\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250714T130000
+DTSTAMP:20250605T170202Z
+DTSTART;TZID="Eastern Standard Time":20250714T120000
+LAST-MODIFIED:20250708T150146Z
+LOCATION:CAM-11-2-E239-Illinois-CLASS (VTC) / System 39
+ORGANIZER;CN="Block, Michael 1 (US)":mailto:michael.1.block@lmco.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Ethics Training
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000508CA4069ED4DB01000000000000000
+	010000000D9A1021A6FE54B449B64350FE2D5A710
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:
+	2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorm
+	al\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Apt
+	os"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.Mso
+	Hyperlink\n	{mso-style-priority:99\;\n	color:#467886\;\n	text-decoration:u
+	nderline\;}\nspan.me-email-text\n	{mso-style-name:me-email-text\;}\nspan.m
+	e-email-text-secondary\n	{mso-style-name:me-email-text-secondary\;}\nspan.
+	me-email-headline\n	{mso-style-name:me-email-headline\;}\nspan.EmailStyle2
+	1\n	{mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:
+	export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSect
+	ion1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordS
+	ection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:s
+	hapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte
+	 mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1
+	" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US" link="#4
+	67886" vlink="#96607D" style="word-wrap:break-word"><div class="WordSectio
+	n1"><p class="MsoNormal">When: Monday\, July 14\, 2025 12:00 PM-1:00 PM (U
+	TC-05:00) Eastern Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNorm
+	al">Where: CAM-11-2-E239-Illinois-CLASS (VTC) / System 39<o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GM
+	T offset above does not reflect daylight saving time adjustments.<o:p></o:
+	p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~
+	*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><
+	p class="MsoNormal">If you sit in Camden\, please attend in person &#8211\
+	; if unable to\, let me know.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbs
+	p\;</o:p></p><p class="MsoNormal">If you sit in Moorestown\, feel free to 
+	use the Teams link.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p><
+	/p><p class="MsoNormal">Let me know if unable to attend and I can send you
+	 a notice for a different manager&#8217\;s session.<o:p></o:p></p><p class
+	="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Thanks\,<o:p></o:p
+	></p><p class="MsoNormal">Mike<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p><div><div style="margin-bottom:.25in\;overflow:hidden"><p cl
+	ass="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#242424">________________________________________________________
+	________________________</span><span style="font-size:12.0pt\;font-family:
+	&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424\;mso-ligatures:none"><o:
+	p></o:p></span></p></div><div style="margin-bottom:9.0pt"><p class="MsoNor
+	mal"><span class="me-email-text"><b><span style="font-size:18.0pt\;font-fa
+	mily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Microsoft Teams</s
+	pan></b></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#242424"> <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><sp
+	an style="font-size:10.5pt\;color:#5B5FC7">Need help?</span></a> <o:p></o:
+	p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><
+	span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"
+	><a href="https://gov.teams.microsoft.us/l/meetup-join/19%3agcch%3ameeting
+	_7c5702032c044f289295455d5ac08593%40thread.v2/0?context=%7b%22Tid%22%3a%22
+	b18f006c-b0fc-467d-b23a-a35b5695b5dc%22%2c%22Oid%22%3a%22bf59cbac-c3a0-4c2
+	c-8549-888cb12e6d0d%22%7d" target="_blank" title="Meeting join link"><b><s
+	pan style="font-size:15.0pt\;color:#5B5FC7">Join the meeting now</span></b
+	></a> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p clas
+	s="MsoNormal"><span class="me-email-text-secondary"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Me
+	eting ID: </span></span><span class="me-email-text"><span style="font-size
+	:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">99
+	2 393 290 85</span></span><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div style="margi
+	n-bottom:.25in"><p class="MsoNormal"><span class="me-email-text-secondary"
+	><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\;color:#616161">Passcode: </span></span><span class="me-email-text"><
+	span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-ser
+	if\;color:#242424">Rs2WE2oV</span></span><span style="font-family:&quot\;S
+	egoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><d
+	iv style="margin-bottom:.25in"><div class="MsoNormal" align="center" style
+	="text-align:center"><span style="font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#242424"><hr size="1" width="100%" align="center"></span></d
+	iv></div><div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span 
+	class="me-email-text"><b><span style="font-family:&quot\;Segoe UI&quot\;\,
+	sans-serif\;color:#242424">Dial in by phone</span></b></span><span style="
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p
+	></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><s
+	pan style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">
+	<a href="tel:+13038246161\,\,659613435"><span style="font-size:10.5pt\;col
+	or:#5B5FC7">+1 303-824-6161\,\,659613435#</span></a> </span><span class="m
+	e-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&q
+	uot\;\,sans-serif\;color:#616161">United States\, Denver</span></span><spa
+	n style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <
+	o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p class="MsoN
+	ormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:
+	#242424"><a href="tel:+14087528700\,\,659613435"><span style="font-size:10
+	.5pt\;color:#5B5FC7">+1 408-752-8700\,\,659613435#</span></a> </span><span
+	 class="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;S
+	egoe UI&quot\;\,sans-serif\;color:#616161">United States\, Sunnyvale</span
+	></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"><p
+	 class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\;color:#242424"><a href="https://dialin.cpc.gov.teams.microsoft.us/a2
+	3b5eba-eeae-4364-952b-734d5e1384bf?id=659613435"><span style="font-size:10
+	.5pt\;color:#5B5FC7">Find a local number</span></a> <o:p></o:p></span></p>
+	</div></div><div style="margin-bottom:.25in"><p class="MsoNormal"><span cl
+	ass="me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Phone conference ID: </s
+	pan></span><span class="me-email-text"><span style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">659 613 435#</s
+	pan></span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#242424"> <o:p></o:p></span></p></div><div style="margin-bottom:4.5pt"
+	><p class="MsoNormal"><span class="me-email-headline"><b><span style="font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424">Join on a video
+	 conferencing device</span></b></span><span style="font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></div><div 
+	style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-email-tex
+	t"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#616161">Tenant key: </span></span><span class="me-email-tex
+	t"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#242424"><a href="mailto:teams@CVI-gov.external.lmco.com">te
+	ams@CVI-gov.external.lmco.com</a></span></span><span style="font-family:&q
+	uot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p></o:p></span></p></
+	div><div style="margin-bottom:4.5pt"><p class="MsoNormal"><span class="me-
+	email-text-secondary"><span style="font-size:10.5pt\;font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#616161">Video ID: </span></span><span cl
+	ass="me-email-text"><span style="font-size:10.5pt\;font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#242424">518 075 938 2</span></span><span s
+	tyle="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"> <o:p
+	></o:p></span></p></div><div style="margin-bottom:.25in"><p class="MsoNorm
+	al"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#24
+	2424"><a href="https://pexip.me/teams/CVI-gov.external.lmco.com/5180759382
+	" target="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">More info<
+	/span></a> <o:p></o:p></span></p></div><div><p class="MsoNormal"><span cla
+	ss="me-email-text-secondary"><span style="font-size:10.5pt\;font-family:&q
+	uot\;Segoe UI&quot\;\,sans-serif\;color:#616161">For organizers: </span></
+	span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2
+	42424"><a href="https://gov.teams.microsoft.us/meetingOptions/?organizerId
+	=bf59cbac-c3a0-4c2c-8549-888cb12e6d0d&amp\;tenantId=b18f006c-b0fc-467d-b23
+	a-a35b5695b5dc&amp\;threadId=19_gcch_meeting_7c5702032c044f289295455d5ac08
+	593@thread.v2&amp\;messageId=0&amp\;language=en-US" target="_blank"><span 
+	style="font-size:10.5pt\;color:#5B5FC7">Meeting options</span></a> </span>
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#D1D1D1
+	">|</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;col
+	or:#242424"> <a href="https://dialin.cpc.gov.teams.microsoft.us/usp" targe
+	t="_blank"><span style="font-size:10.5pt\;color:#5B5FC7">Reset dial-in PIN
+	</span></a> <o:p></o:p></span></p></div><div style="margin-top:.25in\;marg
+	in-bottom:4.5pt"><div><p class="MsoNormal"><span style="font-size:10.5pt\;
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#616161">Start your 
+	meeting with a safety message <a href="https://tiny.lmco.com/msm">(https:/
+	/tiny.lmco.com/msm)</a> and take credit in TZ Leader.<br><br>IMPORTANT: Th
+	e meeting host is responsible for ensuring that the participants understan
+	d who is on the call and announcing what Sensitive Information may be disc
+	losed\, if any. Participants in a meeting are responsible for knowing whet
+	her the information they are presenting or sharing is sensitive [e.g.\, Ex
+	port Controlled Information (ECI)\, LM Proprietary Information (LMPI)\, or
+	 Third Party Proprietary Information (TPPI)] and whether it may be shared 
+	in the meeting. Participants are also responsible for ensuring that all Se
+	nsitive Information is appropriately marked before displaying the material
+	.<o:p></o:p></span></p></div></div><div style="margin-bottom:.25in\;overfl
+	ow:hidden"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&q
+	uot\;\,sans-serif\;color:#242424">________________________________________
+	________________________________________</span><span style="font-size:12.0
+	pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#242424"><o:p></
+	o:p></span></p></div></div><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></di
+	v></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20250603T195302Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=TRUE:mailto:philip.c.franco.ii
+	i@lmco.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:grace.m.hamilton@lmco.com
+ATTENDEE;CN="Seder, Michele A (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:michele.a.seder@lmco.com
+CLASS:PUBLIC
+CREATED:20250605T195418Z
+DESCRIPTION:When: Tuesday\, July 15\, 2025 12:00 AM to Saturday\, July 26\,
+	 2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The G
+	MT offset above does not reflect daylight saving time adjustments.\n\n \n\
+	n*~*~*~*~*~*~*~*~*~*\n\n \n\nI will be OOO on vacation.\n\n
+DTEND;VALUE=DATE:20250726
+DTSTAMP:20250609T122450Z
+DTSTART;VALUE=DATE:20250715
+LAST-MODIFIED:20250707T164127Z
+ORGANIZER;CN="Franco III, Philip C (US)":mailto:philip.c.franco.iii@lmco.co
+	m
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Franco - OOO
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000030F20DFE31D6DB01000000000000000
+	0100000001CB070EA24559D46BD8364ACF6579EA3
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Tuesday\, July 15
+	\, 2025 12:00 AM to Saturday\, July 26\, 2025 12:00 AM (UTC-05:00) Eastern
+	 Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;<
+	/o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect 
+	daylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>
+	&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">I will be OO
+	O on vacation.<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20250605T195422Z
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hack, Peter J (US)";RSVP=FALSE:mailto:peter.j.hack@lmco.com
+ATTENDEE;CN="dl-RMS, XEATS3";RSVP=FALSE:mailto:XEATS3.dl-RMS@groups.lmco.co
+	m
+CLASS:PUBLIC
+CREATED:20250610T222219Z
+DESCRIPTION:When: Thursday\, July 17\, 2025 12:05 PM-1:00 PM (UTC-05:00) Ea
+	stern Time (US & Canada).\n\nWhere: 770-1 Control Room\n\n \n\nNote: The G
+	MT offset above does not reflect daylight saving time adjustments.\n\n \n\
+	n*~*~*~*~*~*~*~*~*~*\n\n \n\n\n\n \n\n\n\n
+DTEND;TZID="Eastern Standard Time":20250717T130000
+DTSTAMP:20250610T222213Z
+DTSTART;TZID="Eastern Standard Time":20250717T120500
+LAST-MODIFIED:20250612T134024Z
+LOCATION:770-1 Control Room
+ORGANIZER;CN="Hack, Peter J (US)":mailto:peter.j.hack@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:C3 Ice Cream Social and Cornhole
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000900AD2D933DADB01000000000000000
+	010000000015828789D6DD24D83DE8A78AA680592
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:
+	* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\
+	\:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\
+	n</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fo
+	nt-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n
+		{font-family:Aptos\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Apto
+	s"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\nspan.EmailStyle18\
+	n	{mso-style-type:personal-compose\;\n	mso-ligatures:none\;}\n.MsoChpDefau
+	lt\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:no
+	ne\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0i
+	n 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if g
+	te mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><!
+	[endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap
+	 v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body 
+	lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-word"><
+	div class="WordSection1"><p class="MsoNormal">When: Thursday\, July 17\, 2
+	025 12:05 PM-1:00 PM (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p></o:
+	p></p><p class="MsoNormal">Where: 770-1 Control Room<o:p></o:p></p><p clas
+	s="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GMT off
+	set above does not reflect daylight saving time adjustments.<o:p></o:p></p
+	><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*
+	~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p cla
+	ss="MsoNormal"><span style="mso-ligatures:none"><img width="282" height="1
+	79" style="width:2.9375in\;height:1.8645in" id="Picture_x0020_1" src="cid:
+	image001.jpg@01DBDA34.750666F0" alt="Ice Cream Sundae Recipes ..."></span>
+	<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNor
+	mal"><span style="mso-ligatures:none"><img width="275" height="183" style=
+	"width:2.8645in\;height:1.9062in" id="Picture_x0020_2" src="cid:image002.p
+	ng@01DBDA34.750666F0"></span><o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Campbell I, Paul M (US)";RSVP=TRUE:mailto:paul.m.campbell.i@lm
+	co.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";ROLE=OPT-PARTICIPANT;RSVP=TRUE:m
+	ailto:csl_cnd_c3isim_agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:grace.m.hamilton@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+CLASS:PUBLIC
+CREATED:20250626T210212Z
+DESCRIPTION:When: Monday\, July 14\, 2025 12:00 AM to Saturday\, July 26\, 
+	2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The GM
+	T offset above does not reflect daylight saving time adjustments.\n\n \n\n
+	*~*~*~*~*~*~*~*~*~*\n\n \n\nVacation.\n\n
+DTEND;VALUE=DATE:20250726
+DTSTAMP:20250626T210208Z
+DTSTART;VALUE=DATE:20250714
+LAST-MODIFIED:20250708T021811Z
+ORGANIZER;CN="Campbell I, Paul M (US)":mailto:paul.m.campbell.i@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Paul M. Campbell - OOO
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E008000000008041F8D9BBE6DB01000000000000000
+	010000000BFA7D37BD7FA1645B5889348D01BF601
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Monday\, July 14\
+	, 2025 12:00 AM to Saturday\, July 26\, 2025 12:00 AM (UTC-05:00) Eastern 
+	Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</
+	o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect d
+	aylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>&
+	nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p 
+	class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Vacation.<o:p
+	></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dy
+	lan.w.benavides@lmco.com
+ATTENDEE;CN="Bano, Shah (US)";RSVP=TRUE:mailto:shah.bano@lmco.com
+ATTENDEE;CN="Krott, Deborah B (US)";RSVP=TRUE:mailto:deborah.b.krott@lmco.c
+	om
+ATTENDEE;CN="Tong, Corey N (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:corey.n
+	.tong@lmco.com
+ATTENDEE;CN="Lopez-Velasquez, Ignacio A (US)";RSVP=TRUE:mailto:ignacio.a.lo
+	pez-velasquez@lmco.com
+ATTENDEE;CN="Strzalka, Gregory B (US)";RSVP=TRUE:mailto:gregory.b.strzalka@
+	lmco.com
+ATTENDEE;CN="Hawes, David D (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:david.
+	d.hawes@lmco.com
+ATTENDEE;CN="Thapa, Rajeev J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:rajee
+	v.j.thapa@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+CLASS:PUBLIC
+CREATED:20250630T142503Z
+DESCRIPTION:When: Thursday\, July 10\, 2025 12:00 AM to Saturday\, July 12\
+	, 2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The 
+	GMT offset above does not reflect daylight saving time adjustments.\n\n \n
+	\n*~*~*~*~*~*~*~*~*~*\n\n \n\nI will be leaving early on Thursday July 10t
+	h. I will be in TC for the morning\, and in office Friday to make up the h
+	ours.\n\nI will be OOO through Friday July 11\, RTO Monday July 14. \n\n \
+	n\nThank you!\n\nGrace\n\n
+DTEND;VALUE=DATE:20250712
+DTSTAMP:20250703T131119Z
+DTSTART;VALUE=DATE:20250710
+LAST-MODIFIED:20250708T114053Z
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Hamilton - OOO
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000060FD118FA8E9DB01000000000000000
+	01000000094E00B8CA992BC4F8BCD1153A997588B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Thursday\, July 1
+	0\, 2025 12:00 AM to Saturday\, July 12\, 2025 12:00 AM (UTC-05:00) Easter
+	n Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;
+	</o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect
+	 daylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p
+	>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><
+	p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">I will be l
+	eaving early on Thursday July 10<sup>th</sup>. I will be in TC for the mor
+	ning<s>\, and in office Friday to make up the hours.<o:p></o:p></s></p><p 
+	class="MsoNormal">I will be OOO through Friday July 11\, RTO Monday July 1
+	4. <sup><o:p></o:p></sup></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p
+	 class="MsoNormal">Thank you!<o:p></o:p></p><p class="MsoNormal">Grace<o:p
+	></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20250630T142459Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=TRUE:mailto:philip.c.franco.ii
+	i@lmco.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:grace.m.hamilton@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+ATTENDEE;CN="Reese, David B (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:david.b.reese@lmco.com
+CLASS:PUBLIC
+CREATED:20250703T155249Z
+DESCRIPTION:When: Tuesday\, July 8\, 2025 12:00 AM to Wednesday\, July 9\, 
+	2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The GM
+	T offset above does not reflect daylight saving time adjustments.\n\n \n\n
+	*~*~*~*~*~*~*~*~*~*\n\n \n\nI will be in TC for meetings. \n\n
+DTEND;VALUE=DATE:20250709
+DTSTAMP:20250703T155245Z
+DTSTART;VALUE=DATE:20250708
+LAST-MODIFIED:20250707T130348Z
+ORGANIZER;CN="Franco III, Philip C (US)":mailto:philip.c.franco.iii@lmco.co
+	m
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Franco TC
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000601E32DE10ECDB01000000000000000
+	01000000090E3F94431EB8E48A530F2A43CF5D44A
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Tuesday\, July 8\
+	, 2025 12:00 AM to Wednesday\, July 9\, 2025 12:00 AM (UTC-05:00) Eastern 
+	Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</
+	o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect d
+	aylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>&
+	nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p 
+	class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">I will be in 
+	TC for meetings. <o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dy
+	lan.w.benavides@lmco.com
+ATTENDEE;CN="Bano, Shah (US)";RSVP=TRUE:mailto:shah.bano@lmco.com
+ATTENDEE;CN="Tong, Corey N (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:corey.n
+	.tong@lmco.com
+ATTENDEE;CN="Lopez-Velasquez, Ignacio A (US)";RSVP=TRUE:mailto:ignacio.a.lo
+	pez-velasquez@lmco.com
+ATTENDEE;CN="Krott, Deborah B (US)";RSVP=TRUE:mailto:deborah.b.krott@lmco.c
+	om
+ATTENDEE;CN="Hawes, David D (US)";RSVP=TRUE:mailto:david.d.hawes@lmco.com
+ATTENDEE;CN="Strzalka, Gregory B (US)";RSVP=TRUE:mailto:gregory.b.strzalka@
+	lmco.com
+ATTENDEE;CN="Thapa, Rajeev J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:rajee
+	v.j.thapa@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Dalmass, Kiera (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kiera.
+	dalmass@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+CLASS:PUBLIC
+CREATED:20250703T161233Z
+DESCRIPTION:When: Thursday\, July 17\, 2025 10:30 AM-1:00 PM (UTC-05:00) Ea
+	stern Time (US & Canada).\n\n \n\nNote: The GMT offset above does not refl
+	ect daylight saving time adjustments.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\n
+	I need to step out for a doctor’s appointment on 7/17.\n\n \n\nThank you
+	!\n\nGrace\n\n
+DTEND;TZID="Eastern Standard Time":20250717T130000
+DTSTAMP:20250703T161230Z
+DTSTART;TZID="Eastern Standard Time":20250717T103000
+LAST-MODIFIED:20250708T114053Z
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Hamilton - OOO Mid Day
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000030F3B86E13ECDB01000000000000000
+	010000000CDBF66189B27EF4D8CC6942F79119557
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Thursday\, July 1
+	7\, 2025 10:30 AM-1:00 PM (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p
+	></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"
+	>Note: The GMT offset above does not reflect daylight saving time adjustme
+	nts.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="Ms
+	oNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp
+	\;</o:p></p><p class="MsoNormal">I need to step out for a doctor&#8217\;s 
+	appointment on 7/17.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p>
+	</p><p class="MsoNormal">Thank you!<o:p></o:p></p><p class="MsoNormal">Gra
+	ce<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="dl-rms, E&T Employees US";RSVP=FALSE:mailto:e&t.employees.us.d
+	l-rms@exch.ems.lmco.com
+ATTENDEE;CN="Moore, Courtney A (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto
+	:courtney.a.moore@lmco.com
+ATTENDEE;CN="Dixon, Tanya M (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:ta
+	nya.m.dixon@lmco.com
+ATTENDEE;CN="Marino, ANNETTE I (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto
+	:annette.i.marino@lmco.com
+ATTENDEE;CN="Vodarick, Jacqueline (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mai
+	lto:jacqueline.vodarick@lmco.com
+ATTENDEE;CN="Townsend, Stephani L (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mai
+	lto:stephani.l.townsend@lmco.com
+ATTENDEE;CN="Dow, Tracey (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:trace
+	y.dow@lmco.com
+ATTENDEE;CN="Gr-RMS, S HIZA ENGAGEMENT-TVL (RESOURCE)";ROLE=OPT-PARTICIPANT
+	;RSVP=FALSE:mailto:s.hiza.engagement-tvl.gr-rms@lmco.com
+ATTENDEE;CN="Burton, Madie (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:mad
+	ie.burton@lmco.com
+ATTENDEE;CN="Egan, Randal B (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:ra
+	ndal.b.egan@lmco.com
+ATTENDEE;CN="Rand, Emily K (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:emi
+	ly.k.rand@lmco.com
+ATTENDEE;CN="Thompson, Richard 1 (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mail
+	to:richard.1.thompson@lmco.com
+ATTENDEE;CN="Pelfrey, Ashley (US)";ROLE=OPT-PARTICIPANT;RSVP=FALSE:mailto:a
+	shley.pelfrey@lmco.com
+CLASS:PUBLIC
+CREATED:20250708T161231Z
+DESCRIPTION:When: Thursday\, July 17\, 2025 12:05 PM-12:30 PM (UTC-05:00) E
+	astern Time (US & Canada).\n\nWhere: Webcast\n\n \n\nNote: The GMT offset 
+	above does not reflect daylight saving time adjustments.\n\n \n\n*~*~*~*~*
+	~*~*~*~*~*\n\n \n\nRMS Engineering and Technology Team\,\n\n \n\nPlease jo
+	in Dr. Sarah Hiza for an all-employee webcast on Thursday\, July 17. \n\nS
+	arah will use this time as a check-in to discuss important reminders and p
+	rogram highlights as we transition into the second half of this year. \n\n
+	Thank you and see you soon! \n\n \n\nJOIN WEBCAST HERE <https://webcasts.u
+	s.lmco.com/viewerportal/rms/video.vp?programId=esc_program%3A448713> \n\n 
+	\n\nClosed captioning is available via the Chrome web browser <https://tin
+	y.lmco.com/rmslive1024caption> \n\n \n\nContact the Lockheed Martin Servic
+	e Desk at 800-435-7063 if you experience technical difficulties accessing 
+	the webcast. \n\n \n\nPlease forward this invitation to any new U.S. emplo
+	yees who may not be entered in the E&T global distribution list yet.\n\n \
+	n\n \n\n
+DTEND;TZID="Eastern Standard Time":20250717T123000
+DTSTAMP:20250708T163019Z
+DTSTART;TZID="Eastern Standard Time":20250717T120500
+LAST-MODIFIED:20250708T163132Z
+LOCATION:Webcast
+ORGANIZER;CN="Hiza, Sarah (US)":mailto:sarah.hiza@lmco.com
+PRIORITY:5
+SEQUENCE:3
+SUMMARY:RMS E&T Webcast: Mid-Year Check-In with Dr. Sarah Hiza
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000050F22647ECE9DB01000000000000000
+	010000000733D39DD91B8664E8E650E30D8D5C986
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n@font-face\n	{font-fam
+	ily:"Maiandra GD"\;\n	panose-1:2 14 5 2 3 3 8 2 2 4\;}\n/* Style Definitio
+	ns */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-s
+	ize:11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardc
+	ontextual\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	colo
+	r:#467886\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style
+	-type:personal-compose\;\n	font-family:"Arial"\,sans-serif\;}\n.MsoChpDefa
+	ult\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatures:n
+	one\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0
+	in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if 
+	gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><
+	![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idma
+	p v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body
+	 lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-word">
+	<div class="WordSection1"><p class="MsoNormal">When: Thursday\, July 17\, 
+	2025 12:05 PM-12:30 PM (UTC-05:00) Eastern Time (US &amp\; Canada).<o:p></
+	o:p></p><p class="MsoNormal">Where: Webcast<o:p></o:p></p><p class="MsoNor
+	mal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Note: The GMT offset above
+	 does not reflect daylight saving time adjustments.<o:p></o:p></p><p class
+	="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~
+	*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNo
+	rmal"><span style="font-family:&quot\;Arial&quot\;\,sans-serif">RMS Engine
+	ering and Technology Team\,<o:p></o:p></span></p><p class="MsoNormal"><spa
+	n style="font-family:&quot\;Arial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></
+	span></p><p class="MsoNormal">Please join Dr. Sarah Hiza for an all-employ
+	ee webcast on Thursday\, July 17. <o:p></o:p></p><p class="MsoNormal">Sara
+	h will use this time as a check-in to discuss important reminders and prog
+	ram highlights as we transition into the second half of this year. <o:p></
+	o:p></p><p class="MsoNormal">Thank you and see you soon! <o:p></o:p></p><p
+	 class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><span style=
+	"font-size:12.0pt\;color:#0000CC"><a href="https://webcasts.us.lmco.com/vi
+	ewerportal/rms/video.vp?programId=esc_program%3A448713"><span style="color
+	:#0000CC">JOIN WEBCAST HERE</span></a><o:p></o:p></span></p><p class="MsoN
+	ormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"><span style="font-family
+	:&quot\;Arial&quot\;\,sans-serif">Closed captioning is available via the <
+	span style="color:#0000CC"><a href="https://tiny.lmco.com/rmslive1024capti
+	on"><span style="color:#0000CC">Chrome web browser</span></a></span></span
+	><o:p></o:p></p><p class="MsoNormal"><span style="font-family:&quot\;Arial
+	&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><sp
+	an style="font-family:&quot\;Arial&quot\;\,sans-serif">Contact the Lockhee
+	d Martin Service Desk at 800-435-7063 if you experience technical difficul
+	ties accessing the webcast. <o:p></o:p></span></p><p class="MsoNormal"><sp
+	an style="font-family:&quot\;Arial&quot\;\,sans-serif"><o:p>&nbsp\;</o:p><
+	/span></p><p class="MsoNormal"><span style="font-family:&quot\;Arial&quot\
+	;\,sans-serif">Please forward this invitation to any new U.S. employees wh
+	o may not be entered in the E&amp\;T global distribution list yet.<o:p></o
+	:p></span></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNorm
+	al"><span style="font-family:&quot\;Maiandra GD&quot\;\,sans-serif"><o:p>&
+	nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20250708T161203Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Doe, Wesley M (US)";RSVP=TRUE:mailto:wesley.m.doe@lmco.com
+ATTENDEE;CN="DeMarco, Robert D (US)";RSVP=TRUE:mailto:robert.d.demarco@lmco
+	.com
+ATTENDEE;CN="Stinson, Kevin F (US)";RSVP=TRUE:mailto:kevin.f.stinson@lmco.c
+	om
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:gra
+	ce.m.hamilton@lmco.com
+ATTENDEE;CN="Norkus, Ryan A (US)";RSVP=TRUE:mailto:ryan.a.norkus@lmco.com
+ATTENDEE;CN="Benner, Andrew W (US)";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:and
+	rew.w.benner@lmco.com
+ATTENDEE;CN="Sanghvi, Yash (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yash.sa
+	nghvi@lmco.com
+ATTENDEE;CN="Page, Brianna R (US)";RSVP=TRUE:mailto:brianna.r.page@lmco.com
+ATTENDEE;CN="Arnott, David B (US)";RSVP=TRUE:mailto:david.b.arnott@lmco.com
+ATTENDEE;CN="Thomas, Connor (US)";RSVP=TRUE:mailto:connor.thomas@lmco.com
+ATTENDEE;CN="Lange, Nicole B (US)";RSVP=TRUE:mailto:nicole.b.lange@lmco.com
+ATTENDEE;CN="Sesay, Michael A (US)";RSVP=TRUE:mailto:michael.a.sesay@lmco.c
+	om
+ATTENDEE;CN="Franco III, Philip C (US)";RSVP=TRUE;PARTSTAT=DECLINED:mailto:
+	philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Daws, Michael E (US)";RSVP=TRUE:mailto:michael.e.daws@lmco.com
+ATTENDEE;CN="Timpanaro, Tyler A (US)";RSVP=TRUE:mailto:tyler.a.timpanaro@lm
+	co.com
+ATTENDEE;CN="Poll, Hayley P (US)";RSVP=TRUE:mailto:hayley.p.poll@lmco.com
+ATTENDEE;CN="Naimoli, Stephen (US)";RSVP=TRUE:mailto:stephen.naimoli@lmco.c
+	om
+ATTENDEE;CN="Hinke, Jessica A (US)";RSVP=TRUE:mailto:jessica.a.hinke@lmco.c
+	om
+ATTENDEE;CN="Quade, Ryan (US)";RSVP=TRUE:mailto:ryan.quade@lmco.com
+ATTENDEE;CN="Sullivan, Kyle P (US)";RSVP=TRUE:mailto:kyle.p.sullivan@lmco.c
+	om
+ATTENDEE;CN="Barqawi, Rayd (US)";RSVP=TRUE:mailto:rayd.barqawi@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Menzel, Jackson P (US)";RSVP=TRUE:mailto:jackson.p.menzel@lmco
+	.com
+ATTENDEE;CN="Ho, Kevin M (US)";RSVP=TRUE:mailto:kevin.m.ho@lmco.com
+ATTENDEE;CN="Hughes, Sean P1 (US)";RSVP=TRUE:mailto:sean.p1.hughes@lmco.com
+ATTENDEE;CN="Messics, Cole A (US)";RSVP=TRUE:mailto:cole.a.messics@lmco.com
+ATTENDEE;CN="McLean Jr, Clayton C (US)";RSVP=TRUE:mailto:clayton.c.mclean.j
+	r@lmco.com
+ATTENDEE;CN="Kennedy, Christopher R (US)";RSVP=TRUE:mailto:christopher.r.ke
+	nnedy@lmco.com
+ATTENDEE;CN="Cobb, Deven R (US)";RSVP=TRUE:mailto:deven.r.cobb@lmco.com
+ATTENDEE;CN="Thomson, Benjamin L (US)";RSVP=TRUE:mailto:benjamin.l.thomson@
+	lmco.com
+ATTENDEE;CN="Jones, Layne M (US)";RSVP=TRUE:mailto:layne.m.jones@lmco.com
+ATTENDEE;CN="Olszewski, Richard W (US)";RSVP=TRUE:mailto:richard.w.olszewsk
+	i@lmco.com
+ATTENDEE;CN="Zazzaro, Patrick D (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:pa
+	trick.d.zazzaro@lmco.com
+CLASS:PUBLIC
+CREATED:20250708T142928Z
+DESCRIPTION:Feel free to shoot me a text to coordinate\n\nTaking suggestion
+	s for future! - List Here <https://centercityphila.org/explore-center-city
+	/ccd-sips/sips-list-view> \n\nPass along to whoever.\n\nWho: More than 90 
+	bars and restaurants across Center City \n\nWhat: Happy hour offering $7 c
+	ocktails\, $6 wine\, $5 beer and half-priced appetizers \n\nWhen:5 p.m. to
+	 7 p.m.\, every Wednesday\, now through August 27th  \n\nWhere: Center Cit
+	y Philadelphia\n\n***Not a Lockheed Martin Sponsored Event***\n\n
+DTEND;TZID="Eastern Standard Time":20250716T190000
+DTSTAMP:20250708T142926Z
+DTSTART;TZID="Eastern Standard Time":20250716T170000
+LAST-MODIFIED:20250708T164430Z
+LOCATION:TBD
+ORGANIZER;CN="Doe, Wesley M (US)":mailto:wesley.m.doe@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:CCD SIPS
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000003C8BECB414F0DB01000000000000000
+	01000000030E13D79B36E9146B7063FBC6FDD285D
+X-ALT-DESC;FMTTYPE=text/html:<meta http-equiv="Content-Type" content="text/
+	html\; charset=us-ascii"><p><strong>Feel free to shoot me a text to coordi
+	nate</strong></p><p><strong>Taking suggestions for future! - List </strong
+	><a href="https://centercityphila.org/explore-center-city/ccd-sips/sips-li
+	st-view" rel="noreferrer noopener" title="https://centercityphila.org/expl
+	ore-center-city/ccd-sips/sips-list-view" target="_blank"><strong>Here</str
+	ong></a></p><p><strong>Pass along to whoever.</strong></p><p><strong>Who: 
+	</strong>More than 90&nbsp\;bars and restaurants across Center City&nbsp\;
+	</p><p><strong>What: </strong>Happy hour offering $7 cocktails\, $6 wine\,
+	 $5 beer and half-priced appetizers&nbsp\;</p><p><strong>When:</strong>5 p
+	.m. to 7 p.m.\, every Wednesday\, now through August 27th &nbsp\;</p><p><s
+	trong>Where:</strong>&nbsp\;Center City Philadelphia</p><p>***Not a Lockhe
+	ed Martin Sponsored Event***</p>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+X-MS-OLK-APPTSEQTIME:20250708T142926Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hamilton, Grace M (US)";RSVP=TRUE:mailto:grace.m.hamilton@lmco
+	.com
+ATTENDEE;CN="dl-MST, CSL_CND_C3ISim_Agile";RSVP=TRUE:mailto:csl_cnd_c3isim_
+	agile.dl-mst@exch.ems.lmco.com
+ATTENDEE;CN="Benavides, Dylan W (US)";RSVP=TRUE:mailto:dylan.w.benavides@lm
+	co.com
+ATTENDEE;CN="Bano, Shah (US)";RSVP=TRUE:mailto:shah.bano@lmco.com
+ATTENDEE;CN="Krott, Deborah B (US)";RSVP=TRUE:mailto:deborah.b.krott@lmco.c
+	om
+ATTENDEE;CN="Tong, Corey N (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:corey.n
+	.tong@lmco.com
+ATTENDEE;CN="Lopez-Velasquez, Ignacio A (US)";RSVP=TRUE:mailto:ignacio.a.lo
+	pez-velasquez@lmco.com
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="Strzalka, Gregory B (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:g
+	regory.b.strzalka@lmco.com
+ATTENDEE;CN="Hawes, David D (US)";RSVP=TRUE:mailto:david.d.hawes@lmco.com
+ATTENDEE;CN="Thapa, Rajeev J (US)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:rajee
+	v.j.thapa@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Guo, Jessica (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jessica.guo@lmco.com
+CLASS:PUBLIC
+CREATED:20250708T121848Z
+DESCRIPTION:When: Tuesday\, July 8\, 2025 12:00 AM to Wednesday\, July 9\, 
+	2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\n \n\nNote: The GM
+	T offset above does not reflect daylight saving time adjustments.\n\n \n\n
+	*~*~*~*~*~*~*~*~*~*\n\n \n\nStill not feeling well today\, so I will be OO
+	O.\n\n \n\nI will likely be online sporadically to check emails.\n\n \n\nT
+	hanks\,\n\nGrace\n\n
+DTEND;VALUE=DATE:20250709
+DTSTAMP:20250708T121843Z
+DTSTART;VALUE=DATE:20250708
+LAST-MODIFIED:20250708T135608Z
+ORGANIZER;CN="Hamilton, Grace M (US)":mailto:grace.m.hamilton@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Hamilton - Sick
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000209872AEE0EFDB01000000000000000
+	010000000AD7ED50688E92A4189B7D27568064605
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Tuesday\, July 8\
+	, 2025 12:00 AM to Wednesday\, July 9\, 2025 12:00 AM (UTC-05:00) Eastern 
+	Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</
+	o:p></p><p class="MsoNormal">Note: The GMT offset above does not reflect d
+	aylight saving time adjustments.<o:p></o:p></p><p class="MsoNormal"><o:p>&
+	nbsp\;</o:p></p><p class="MsoNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p 
+	class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Still not fee
+	ling well today\, so I will be OOO.<o:p></o:p></p><p class="MsoNormal"><o:
+	p>&nbsp\;</o:p></p><p class="MsoNormal">I will likely be online sporadical
+	ly to check emails.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p><
+	/p><p class="MsoNormal">Thanks\,<o:p></o:p></p><p class="MsoNormal">Grace<
+	o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Block, Michael 1 (US)";RSVP=TRUE:mailto:michael.1.block@lmco.c
+	om
+ATTENDEE;CN="dl-RMS, C3-Block";RSVP=TRUE:mailto:C3-Block.dl-RMS@exch.ems.lm
+	co.com
+ATTENDEE;CN="dl-RMS, c3mgr";RSVP=TRUE:mailto:c3mgr.dl-rms@exch.ems.lmco.com
+ATTENDEE;CN="Fritschy, JuaN (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:juan.fritschy@lmco.com
+ATTENDEE;CN="Hamilton, Grace M (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:grace.m.hamilton@lmco.com
+ATTENDEE;CN="Franco III, Philip C (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:philip.c.franco.iii@lmco.com
+ATTENDEE;CN="Patel, Gaurav (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:gaurav.patel@lmco.com
+ATTENDEE;CN="Hack, Peter J (US)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:peter.j.hack@lmco.com
+CLASS:PUBLIC
+CREATED:20250708T120702Z
+DESCRIPTION:When: Tuesday\, July 8\, 2025 12:00 AM to Wednesday\, July 9\, 
+	2025 12:00 AM (UTC-05:00) Eastern Time (US & Canada).\n\nWhere: OOO\n\n \n
+	\nNote: The GMT offset above does not reflect daylight saving time adjustm
+	ents.\n\n \n\n*~*~*~*~*~*~*~*~*~*\n\n \n\nWill be checking email throughou
+	t the day. \n\n \n\nThanks\,\n\nMike\n\n
+DTEND;VALUE=DATE:20250709
+DTSTAMP:20250708T120658Z
+DTSTART;VALUE=DATE:20250708
+LAST-MODIFIED:20250708T154146Z
+LOCATION:OOO
+ORGANIZER;CN="Block, Michael 1 (US)":mailto:michael.1.block@lmco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Block - OOO (sick)
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000030DEA715DFEFDB01000000000000000
+	0100000001485138A9F901748807AE63EFB77DF8B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:
+	12.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;}\n.MsoChp
+	Default\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\n	mso-ligatur
+	es:none\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang="EN-US" link="#467886" vlink="#96607D" style="word-wrap:break-wo
+	rd"><div class="WordSection1"><p class="MsoNormal">When: Tuesday\, July 8\
+	, 2025 12:00 AM to Wednesday\, July 9\, 2025 12:00 AM (UTC-05:00) Eastern 
+	Time (US &amp\; Canada).<o:p></o:p></p><p class="MsoNormal">Where: OOO<o:p
+	></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal"
+	>Note: The GMT offset above does not reflect daylight saving time adjustme
+	nts.<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="Ms
+	oNormal">*~*~*~*~*~*~*~*~*~*<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp
+	\;</o:p></p><p class="MsoNormal"><span style="font-size:11.0pt">Will be ch
+	ecking email throughout the day. <o:p></o:p></span></p><p class="MsoNormal
+	"><span style="font-size:11.0pt"><o:p>&nbsp\;</o:p></span></p><p class="Ms
+	oNormal"><span style="font-size:11.0pt">Thanks\,<o:p></o:p></span></p><p c
+	lass="MsoNormal"><span style="font-size:11.0pt">Mike<o:p></o:p></span></p>
+	</div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
